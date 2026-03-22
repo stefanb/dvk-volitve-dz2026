@@ -4,39 +4,39 @@ set -euxo pipefail
 VOTEKEY=${1:-dz2026}
 
 VolitveBASEURL="https://volitve.dvk-rs.si/${VOTEKEY}"
-CURL="curl --progress-bar --fail --connect-timeout 300"
+CURL=(curl --progress-bar --fail --connect-timeout 300 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -H "Accept: application/json, text/plain, */*" -H "Accept-Language: sl-SI,sl;q=0.9,en-GB;q=0.8,en;q=0.7" -H "Origin: https://www.dvk-rs.si" -H "Referer: ${VolitveBASEURL}" --compressed)
 DIR="data/${VOTEKEY}"
 mkdir -p "${DIR}"
 
-$CURL "${VolitveBASEURL}/config/config.json"   | jq > ${DIR}/config.json
-$CURL "${VolitveBASEURL}/data/obvestila.json"  | jq > ${DIR}/obvestila.json
-$CURL "${VolitveBASEURL}/data/data.json"       | jq > ${DIR}/data.json
+"${CURL[@]}" "${VolitveBASEURL}/config/config.json"   | jq > ${DIR}/config.json
+"${CURL[@]}" "${VolitveBASEURL}/data/obvestila.json"  | jq > ${DIR}/obvestila.json
+"${CURL[@]}" "${VolitveBASEURL}/data/data.json"       | jq > ${DIR}/data.json
 jq -r '(.slovenija.enote | map({st: .st, naziv: .naz} ))| (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' ${DIR}/data.json > ${DIR}/enote.csv
 
 #check ig VOTEKEY doesn't start with "referendum"
 if [[ $VOTEKEY != referendum* ]]
 then
-    $CURL "${VolitveBASEURL}/data/liste.json"      | jq > ${DIR}/liste.json
+    "${CURL[@]}" "${VolitveBASEURL}/data/liste.json"      | jq > ${DIR}/liste.json
     jq -r '(.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' ${DIR}/liste.json > ${DIR}/liste.csv
     # don't update candidates with censored data anymore:
-    $CURL "${VolitveBASEURL}/data/kandidati.json"  | jq > ${DIR}/kandidati.json
+    "${CURL[@]}" "${VolitveBASEURL}/data/kandidati.json"  | jq > ${DIR}/kandidati.json
     jq -r 'map({zap_st: .zap_st, st: .st, id: .id, ime: .ime, priimek: .pri, datum_rojstva: .dat_roj[0:10], poklic: .pokl, delo: .del , obcina: .obc , naselje: .nas , ulica: .ul , hisna_st: .hst, spol: .spol , ptt: .ptt , ptt_st: .ptt_st , enota: .enota, okraj_1: .okraji[0], okraj_2: .okraji[1] }) | (.[0] | to_entries | map(.key)), (.[] | [.[]]) | @csv' ${DIR}/kandidati.json > ${DIR}/kandidati.csv
 fi
 
-$CURL "${VolitveBASEURL}/data/zgod_udel.json"  | jq > ${DIR}/zgod_udel.json
+"${CURL[@]}" "${VolitveBASEURL}/data/zgod_udel.json"  | jq > ${DIR}/zgod_udel.json
 
 # Iz navodil medijem:
 # https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/#accordion-1731-body-6
-$CURL "${VolitveBASEURL}/data/udelezba.json"            | jq > ${DIR}/udelezba.json
-$CURL "${VolitveBASEURL}/data/udelezba.csv"                  > ${DIR}/udelezba.csv
-$CURL "${VolitveBASEURL}/data/rezultati.json"           | jq > ${DIR}/rezultati.json
-$CURL "${VolitveBASEURL}/data/rezultati.csv"                 > ${DIR}/rezultati.csv
-$CURL "${VolitveBASEURL}/data/izvoz.xlsx"                    > ${DIR}/izvoz.xlsx
+"${CURL[@]}" "${VolitveBASEURL}/data/udelezba.json"            | jq > ${DIR}/udelezba.json
+"${CURL[@]}" "${VolitveBASEURL}/data/udelezba.csv"                  > ${DIR}/udelezba.csv
+"${CURL[@]}" "${VolitveBASEURL}/data/rezultati.json"           | jq > ${DIR}/rezultati.json
+"${CURL[@]}" "${VolitveBASEURL}/data/rezultati.csv"                 > ${DIR}/rezultati.csv
+"${CURL[@]}" "${VolitveBASEURL}/data/izvoz.xlsx"                    > ${DIR}/izvoz.xlsx
 
 if [[ $VOTEKEY != referendum* ]]
 then
-    $CURL "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > ${DIR}/kandidati_rezultati.json
-    $CURL "${VolitveBASEURL}/data/mandati.csv"                   > ${DIR}/mandati.csv
+    "${CURL[@]}" "${VolitveBASEURL}/data/kandidati_rezultati.json" | jq > ${DIR}/kandidati_rezultati.json
+    "${CURL[@]}" "${VolitveBASEURL}/data/mandati.csv"                   > ${DIR}/mandati.csv
 fi
 
 for VE in {1..8}
@@ -50,7 +50,7 @@ do
         VOTEMP="0${VO}"
         VOPAD="${VOTEMP: -2}"
         echo "Scraping VE:${VEPAD} VO:${VOPAD}..."
-        $CURL "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > ${DIR}/volisca_${VEPAD}_${VOPAD}.json
+        "${CURL[@]}" "${VolitveBASEURL}/data/volisca_${VEPAD}_${VOPAD}.json" | jq > ${DIR}/volisca_${VEPAD}_${VOPAD}.json
     done
 done
 

@@ -4,7 +4,7 @@ set -euxo pipefail
 VOTEKEY=${1:-dz2026}
 
 VolitveBASEURL="https://volitve.dvk-rs.si/${VOTEKEY}"
-CURL=(curl --progress-bar --fail --connect-timeout 300 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -H "Accept: application/json, text/plain, */*" -H "Accept-Language: sl-SI,sl;q=0.9,en-GB;q=0.8,en;q=0.7" -H "Origin: https://www.dvk-rs.si" -H "Referer: ${VolitveBASEURL}" --compressed)
+CURL=(curl --progress-bar --fail --connect-timeout 300 -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" -H "Accept: application/json, text/plain, */*" -H "Accept-Language: sl-SI,sl;q=0.9,en-GB;q=0.8,en;q=0.7" -H "Referer: ${VolitveBASEURL}" --compressed)
 DIR="data/${VOTEKEY}"
 mkdir -p "${DIR}"
 

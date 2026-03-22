@@ -41,10 +41,12 @@ fi
 
 for VE in {1..8}
 do
+    sleep 5
     VETEMP="0${VE}"
     VEPAD="${VETEMP: -2}" #pad left with 0s to max 2 chars
     for VO in {1..11}
     do
+        sleep 2
         VOTEMP="0${VO}"
         VOPAD="${VOTEMP: -2}"
         echo "Scraping VE:${VEPAD} VO:${VOPAD}..."

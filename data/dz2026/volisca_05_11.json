@@ -1,0 +1,467 @@
+{
+  "en_rpeid": "5000",
+  "en_st": 5,
+  "en_naz": "VE 5000 - CELJE",
+  "rpeid": "5011",
+  "st": 11,
+  "naz": "VO 5011 - RADLJE",
+  "vol": [
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "Bar Vas, Vas 32, Radlje ob Dravi",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "Bičivnek, Libeliče bš, Libeliče",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "DK Sv. Primož na Pohorju, Sv.Primož na Poh. 22",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "DRU Radlje ob Dravi, Mariborska c. 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "Društveni prostori Sv. Vid, Sv. Vid bš, Vuzenica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "Dvorana Gortina, Gortina 71, Muta",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Dvorana Kienhofen, Glavni trg 17, Muta",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Dvorana KS Remšnik, Remšnik 5, Podvelka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Dvorana Ožbalt, Ožbalt 3, Ožbalt",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "FURS urad Dravograd, Mariborska c. 3, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "GD Črneče, Črneče 145, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "Glasbeni dom Bistriški jarek, Pernice 10a, Muta",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Godbeni dom Muta, Livarska ul. 4, Muta",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "rpeid": "037",
+      "naz": "Gostišče Prodnar, Sv. Primož na Poh. 1, Vuzenica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Jamnik Otiški Vrh, Otiški Vrh 56, Šentjanž pri Dr",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "KD Josipdol, Josipdol 29, Ribnica na Pohorju",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "KD Podvelka, Podvelka 55, Podvelka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "KS Sv. Anton na Pohorju, Sv. Anton na Poh. 59",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "Kulturno upravni center, Sejmarska ul. 2, Vuzenica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Občina Dravograd, Trg 4. julija 7, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "OŠ Brezno-Podvelka, Brezno 78, Podvelka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "OŠ Dravograd, Trg 4. julija 64, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "OŠ Radlje ob Dravi, Koroška c. 17, Radlje ob Dravi",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "OŠ Ribnica na Pohorju, Ribnica na Poh. 29",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "OŠ Šentjanž pri Dravogradu, Šentjanž 88",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "OŠ Vuzenica, Mladinska ul. 3, Vuzenica",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Podružnična šola Kapla, Sp. Kapla 2, Kapla",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Podružnična šola Lehen, Lehen na Poh. 49, Podvelka",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Podružnična šola Ojstrica, Ojstrica 27, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Podružnična šola Trbonje, Trbonje 26, Trbonje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "Ribiški dom Radlje ob Dravi, Zg. Vižinga 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Športni park Vič, Vič, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "UE Dravograd, Meža 10, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "VD Vuhred, Vuhred 1, Vuhred",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Vrtec Robindvor, Robindvor 60, Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "ZD Radlje ob Dravi, Mariborska c. 37",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "Župnišče Šempeter, Otiški Vrh 92, Šentjanž pri Dr",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 902,
+      "rpeid": "902",
+      "naz": "Predčasno - Dravograd",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje - Radlje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Mojca",
+      "pri": "Erjavec",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "hcol": null
+    },
+    {
+      "ime": "Barbara",
+      "pri": "Višnar",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": null
+    },
+    {
+      "ime": "Veronika",
+      "pri": "Mohorič",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "hcol": null
+    },
+    {
+      "ime": "Bojan",
+      "pri": "Rems",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": null
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Bogdana Stefanova",
+      "pri": "Žepič",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Marjan",
+      "pri": "Šol",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": null
+    },
+    {
+      "ime": "Tina",
+      "pri": "Bašić",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": null
+    },
+    {
+      "ime": "Zoran",
+      "pri": "Rožič",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": null
+    },
+    {
+      "ime": "Milena",
+      "pri": "Pečečnik",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": null
+    },
+    {
+      "pfx": "dr.",
+      "ime": "Valentina",
+      "pri": "Prevolnik Rupel",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": null
+    },
+    {
+      "ime": "Heda (Hedija)",
+      "pri": "Hamzić",
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": null
+    },
+    {
+      "ime": "Simon",
+      "pri": "Deželak",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": null
+    },
+    {
+      "ime": "Karol",
+      "pri": "Štich",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": null
+    },
+    {
+      "ime": "Robert",
+      "pri": "Potnik",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": null
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Helbl",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": null
+    },
+    {
+      "ime": "Nina",
+      "pri": "Novak",
+      "st": 107800,
+      "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "hcol": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

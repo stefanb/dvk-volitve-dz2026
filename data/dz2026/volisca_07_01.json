@@ -1,0 +1,536 @@
+{
+  "en_rpeid": "7000",
+  "en_st": 7,
+  "en_naz": "VE 7000 - MARIBOR",
+  "rpeid": "7001",
+  "st": 1,
+  "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
+  "vol": [
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Aleš Tadina PP, Sp. Gabernik 35, 3241 Podplat",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "Anderlič Bojan, Dragomilo 11, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Bar Kincel, Grobelno-del 21,3231 Grobelno",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "Debelak Marija, Topole 26, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "DK Osredek, Osr./Podsredi 19a, 3257 Podsreda",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "DK Podsreda, Podsreda 31, 3257 Podsreda",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "DK Zagorje, Zagorje 47, 3261 Lesično ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "DKG Polje ob Sotli,  Polje ob Sotli 4, 3255 Buče",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "DKG Sl. Gora, Sl. Gora 3c, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "Dvorana KD Rogatec,Strmolska ul. 6, 3252 Rogatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Fajs Damjan, Senovica 39, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "GD Buče, Vr. Gorca 4a, 3255 Buče",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "GD Imeno, Imeno 38a, 3254 Podčetrtek",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "GD Kostrivnica, Zg. Kostrivnica 10a, 3241 Podplat",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "GD Mestinje, Mestinje 19, 3241 Podplat",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "GD PGD Steklarna, Ul. talcev 1, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "GD Podčetrtek, Slake 3, 3254 Podčetrtek",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "rpeid": "042",
+      "naz": "GD Šm./Jelšah, Obrtniška ul. 4, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "GD Sv. Štefan, Sv. Štefan 51, 3264 Sv. Štefan",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "rpeid": "041",
+      "naz": "GD Zibika, Zibika 4a, 3253 Prist/Mestinju",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "GD, Prvomajska ul.15a, 3250 Rog. Slatina ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "GKD Kristan vrh, Kristan Vrh 53a, 3241 Podplat",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "rpeid": "037",
+      "naz": "GKD Šentvid, Šentvid 30, 3231 Grobelno",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "Golež Stanislav, Rakovec 8, 3231 Grobelno",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Golub Zvonimir, Sp. Negonje 18, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "I.OŠ Rog. Sl., Kidričeva ul. 24,3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "II.OŠ Rog. Sl., Ul. Kozj. odr. 4,3250 Rog.Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "KC Rog. Slatina, Celjska c. 3a, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "KD B.ob Sotli, B. ob Sotli 9, 3256 B. ob Sotli",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "KD Lesično, Lesično 5c, 3261 Lesično",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "KD Šm./Jelšah, Aškerčev trg 20, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 12,
+      "rpeid": "012",
+      "naz": "KD Virštanj, Virštanj 11, 3254 Podčetrtek",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "Kovačič Marija, Kamence 24, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "rpeid": "046",
+      "naz": "Lorger Sabina, Vrh 16, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "Marjan Petauer, Dol/Pristavi 2b,3253 Pr./Mestinju",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Martin Stoklas, Dvor 14, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "Orač Martin bivša trg., Ješovec 7, 3240 Šm./Jelšah",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "OŠ Lemberg, Lemberg/Šmarju 13, 3241 Podplat",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "OŠ Sv. Florijan, Sv Florijan 60,3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "POŠ Dobovec, Dob./Rogatcu 35c, 3252 Rogatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Rusl Jožef, Brestovec 1, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Sejna soba Občine Kozje, Kozje 37, 3260 Kozje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Servis Žgajner, Sp. Sečovo 14, 3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "TPOŠ Pristava, Pr./Mestinju 27, 3253 Pr./Mestinju",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "VD na Tinskem pri igrišču, bš, 3223 Loka/Žusmu",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "VGD Donačka Gora, Donačka Gora 4c, 3252 Rogatec",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "Vrtni center, Cer. p. Bočem 22a,3250 Rog. Slatina",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Martin",
+      "pri": "Mikolič",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "hcol": null
+    },
+    {
+      "ime": "Zmago",
+      "pri": "Jelinčič Plemeniti",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": null
+    },
+    {
+      "ime": "Nina",
+      "pri": "Beškovnik",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "hcol": null
+    },
+    {
+      "ime": "Jožef",
+      "pri": "Lipnik",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": null
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Anton",
+      "pri": "Jurinčič",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Sonja",
+      "pri": "Kramar",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": null
+    },
+    {
+      "ime": "Aljaž",
+      "pri": "Božičko",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": null
+    },
+    {
+      "ime": "Tarra",
+      "pri": "Stermšek Kristan",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": null
+    },
+    {
+      "ime": "Slavka",
+      "pri": "Malajner",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": null
+    },
+    {
+      "ime": "David",
+      "pri": "Stupica",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": null
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": null
+    },
+    {
+      "ime": "Simona",
+      "pri": "Pec",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": null
+    },
+    {
+      "ime": "Ivan",
+      "pri": "Mejavšek",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": null
+    },
+    {
+      "ime": "Franc",
+      "pri": "Križan",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": null
+    },
+    {
+      "ime": "Anton",
+      "pri": "Šturbej",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": null
+    },
+    {
+      "ime": "Neja",
+      "pri": "Dolničar",
+      "st": 107800,
+      "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "hcol": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "en_rpeid": "3000",
+  "en_st": 3,
+  "en_naz": "VE 3000 - LJUBLJANA CENTER",
+  "rpeid": "3007",
+  "st": 7,
+  "naz": "VO 3007 - LJUBLJANA CENTER",
+  "vol": [
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Info točka misija 100, Pogačarjev trg 3, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "OŠ Majde Vrhovnik, Gregorčičeva ul. 16, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "OŠ Poljane, Zemljemerska ul. 7, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "OŠ Toneta Čufarja, Čufarjeva ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "OŠ Vodmat, Potrčeva ul. 1, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Prostori MOL, Rozmanova ul. 12, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Prostori MOL, Štefanova ul. 11, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "SZŠ Ljubljana, Poljanska c. 61, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Vrtec Pod Gradom, Praprotnikova 2, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Vrtec Pod Gradom, Praprotnikova 2, Ljubljana",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "pfx": "mag.",
+      "ime": "Mirko",
+      "pri": "Stopar",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "hcol": null
+    },
+    {
+      "ime": "Simon",
+      "pri": "Gregorn",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": null
+    },
+    {
+      "ime": "Rajko",
+      "pri": "Kotnik",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "hcol": null
+    },
+    {
+      "ime": "Mojca",
+      "pri": "Cvetko",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": null
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Miha",
+      "pri": "Kordiš",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Tanja",
+      "pri": "Fajon",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": null
+    },
+    {
+      "ime": "Jasmin",
+      "pri": "Feratović",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": null
+    },
+    {
+      "ime": "Luka",
+      "pri": "Mesec",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": null
+    },
+    {
+      "ime": "Gregor",
+      "pri": "Novak",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": null
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Urška",
+      "pri": "Klakočar Zupančič",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": null
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": null
+    },
+    {
+      "ime": "Tomaž",
+      "pri": "Avsenik",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": null
+    },
+    {
+      "ime": "Valentina",
+      "pri": "Višnar Jernej",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": null
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Nastja",
+      "pri": "Brelih",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": null
+    },
+    {
+      "ime": "Karin",
+      "pri": "Planinšek",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": null
+    },
+    {
+      "ime": "Violeta",
+      "pri": "Tomić",
+      "st": 107800,
+      "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "hcol": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

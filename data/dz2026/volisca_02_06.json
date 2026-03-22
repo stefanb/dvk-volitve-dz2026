@@ -1,0 +1,680 @@
+{
+  "en_rpeid": "2000",
+  "en_st": 2,
+  "en_naz": "VE 2000 - POSTOJNA",
+  "rpeid": "2006",
+  "st": 6,
+  "naz": "VO 2006 - SEŽANA",
+  "vol": [
+    {
+      "st": 55,
+      "rpeid": "055",
+      "naz": "Artviže, vaški dom, Artviže 6a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 1,
+      "rpeid": "001",
+      "naz": "Avber, bivša OŠ, Avber 41",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 57,
+      "rpeid": "057",
+      "naz": "Bač pri Materiji, GD, Bač pri Materiji 28b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 46,
+      "rpeid": "046",
+      "naz": "Barka, stara OŠ, Barka 33",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 35,
+      "rpeid": "035",
+      "naz": "Brestovica pri Komnu 55, prostori vaške skupnosti",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 58,
+      "rpeid": "058",
+      "naz": "Brezovica, vaški dom, Brezovica 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 33,
+      "rpeid": "033",
+      "naz": "Brje pri Komnu, vaški dom, Brje pri Komnu bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 43,
+      "rpeid": "043",
+      "naz": "Dane pri Divači, vaški dom, Dane pri Divači bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 2,
+      "rpeid": "002",
+      "naz": "Dane pri Sežani, Dom na Padulu, Dane 17 A",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 40,
+      "rpeid": "040",
+      "naz": "Divača  OŠ, Ul. dr. B. Magajne 4, Divača",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 20,
+      "rpeid": "020",
+      "naz": "Dol pri Vogljah, ZDD, Dol pri Vogljah bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 49,
+      "rpeid": "049",
+      "naz": "Dolenja vas, v ZDD, Dolenja vas 11",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 41,
+      "rpeid": "041",
+      "naz": "Dolnje Ležeče, vaški dom, Dolnje Ležeče bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 3,
+      "rpeid": "003",
+      "naz": "Dutovlje,  Bunčetova domačija, Dutovlje 65",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 44,
+      "rpeid": "044",
+      "naz": "Famlje, v dvorani Rudnik Vreme, Famlje 2 a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 27,
+      "rpeid": "027",
+      "naz": "Gabrovica pri Komnu 47, prostori vaške skupnosti",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 34,
+      "rpeid": "034",
+      "naz": "Gorjansko, ZDD, Gorjansko 84 b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 45,
+      "rpeid": "045",
+      "naz": "Gornje Ležeče, v hiši Jožeta Čeperja, G.Ležeče 16",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 56,
+      "rpeid": "056",
+      "naz": "Gradišče pri Materiji, prostori KS, Gradišče 42 a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 50,
+      "rpeid": "050",
+      "naz": "Hrpelje, vaški dom Hrpelje, Na  Gorici 2a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 39,
+      "rpeid": "039",
+      "naz": "Hruševica, vaški dom, Hruševica bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 32,
+      "rpeid": "032",
+      "naz": "Ivanji Grad, vaški dom, Ivanji Grad bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 69,
+      "rpeid": "069",
+      "naz": "Javorje, vaški dom, Javorje 21 a",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 8,
+      "rpeid": "008",
+      "naz": "Kazlje, dom KS, Kazlje 40",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 68,
+      "rpeid": "068",
+      "naz": "Klanec pri Kozini, vaški dom, Klanec pri Kozini 32",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 38,
+      "rpeid": "038",
+      "naz": "Kobjeglava, VS Tupelče Kobjeglava, Kobjeglava 75",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 37,
+      "rpeid": "037",
+      "naz": "Kodreti, Vaška skupnost Gornja Branica,Kodreti 10",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 26,
+      "rpeid": "026",
+      "naz": "Komen, KD, Komen 118",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 6,
+      "rpeid": "006",
+      "naz": "Kopriva, dvorana vaške skupnosti, Kopriva 14",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 53,
+      "rpeid": "053",
+      "naz": "Kozina, Krajevna skupnost, Kozina, Istrska ul. 18",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 7,
+      "rpeid": "007",
+      "naz": "Krajna vas, hiša Gec Cvetke, Krajna vas 40",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 4,
+      "rpeid": "004",
+      "naz": "Kreplje, Vaški dom, Kreplje bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 24,
+      "rpeid": "024",
+      "naz": "Križ, Vaški dom, Križ 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 52,
+      "rpeid": "052",
+      "naz": "Krvavi Potok, vaški dom, Krvavi Potok 16 h",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 9,
+      "rpeid": "009",
+      "naz": "Lokev, KD, Lokev 139",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 42,
+      "rpeid": "042",
+      "naz": "Naklo, vaški dom,  Naklo bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 60,
+      "rpeid": "060",
+      "naz": "Obrov, prostori balinišča, Obrov 62 d",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 59,
+      "rpeid": "059",
+      "naz": "Ocizla, vaška hiša, Ocizla bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 17,
+      "rpeid": "017",
+      "naz": "OŠ Sežana, Sežana, Kosovelova ul. 6",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 15,
+      "rpeid": "015",
+      "naz": "Otroški vrtec, Sežana, Ul. J. Pahorja 1 ",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 10,
+      "rpeid": "010",
+      "naz": "Pliskovica, balinarski klub, Pliskovica bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 13,
+      "rpeid": "013",
+      "naz": "Povir, ZDD, Povir 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 61,
+      "rpeid": "061",
+      "naz": "Prešnica, OŠ, Prešnica 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 62,
+      "rpeid": "062",
+      "naz": "Rodik, vaški dom, Rodik 6",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 14,
+      "rpeid": "014",
+      "naz": "Sedež Občine Sežana, Sežana, Partizanska c.4",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 48,
+      "rpeid": "048",
+      "naz": "Senožeče, VD R. Cvetka, Senožeče bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 5,
+      "rpeid": "005",
+      "naz": "Skopo, vaška dvorana, Skopo 49",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 31,
+      "rpeid": "031",
+      "naz": "Škrbina, stara OŠ, Škrbina bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 63,
+      "rpeid": "063",
+      "naz": "Slivje, prostori KS, Slivje 1",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 36,
+      "rpeid": "036",
+      "naz": "Štanjel, ZDD, Štanjel 59 A",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 18,
+      "rpeid": "018",
+      "naz": "Stara OŠ, Sežana, Bazoviška c. 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 21,
+      "rpeid": "021",
+      "naz": "Štjak, bivša OŠ, Štjak 40",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 22,
+      "rpeid": "022",
+      "naz": "Štorje, ZDD, Štorje 26",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 30,
+      "rpeid": "030",
+      "naz": "Sveto, stara OŠ, Sveto 68",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 25,
+      "rpeid": "025",
+      "naz": "Tabor, OŠ, Tabor 9",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 64,
+      "rpeid": "064",
+      "naz": "Tatre, vaški dom, Tatre 2",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 29,
+      "rpeid": "029",
+      "naz": "Tomačevica, vaški dom, Tomačevica bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 23,
+      "rpeid": "023",
+      "naz": "Tomaj, sedež KS - balinišče, Tomaj bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 51,
+      "rpeid": "051",
+      "naz": "Tublje pri Hrpeljah, Gostilna Križman, Tublje  24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 47,
+      "rpeid": "047",
+      "naz": "Vareje, vaški dom, Vareje bš",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 16,
+      "rpeid": "016",
+      "naz": "VDC Koper - Enota Sežana, Sežana, Ul. J.Pahorja 3",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 11,
+      "rpeid": "011",
+      "naz": "Veliki Dol, dvorana stare OŠ, Veliki Dol 53",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 28,
+      "rpeid": "028",
+      "naz": "Volčji Grad, vaška hiša, Volčji Grad št. 24",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 54,
+      "rpeid": "054",
+      "naz": "Vrhpolje, vaški dom, Vrhpolje 9 b",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 19,
+      "rpeid": "019",
+      "naz": "ZGRS Sežana, Sežana, Bazoviška c. 13",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    },
+    {
+      "st": 901,
+      "rpeid": "901",
+      "naz": "Predčasno glasovanje",
+      "rez": null,
+      "udel": null,
+      "prestetih_glasov": null
+    }
+  ],
+  "liste": [
+    {
+      "ime": "Maja",
+      "pri": "Pantelić",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "hcol": null
+    },
+    {
+      "ime": "Maja",
+      "pri": "Šprohar",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": null
+    },
+    {
+      "ime": "Nives",
+      "pri": "Cek",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "hcol": null
+    },
+    {
+      "ime": "Lana",
+      "pri": "Saksida",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": null
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Bojan",
+      "pri": "Pahor",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "/",
+      "hcol": null
+    },
+    {
+      "ime": "Zoran",
+      "pri": "Grubišić",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": null
+    },
+    {
+      "ime": "Matej",
+      "pri": "Sukič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": null
+    },
+    {
+      "ime": "Meri",
+      "pri": "Hreščak",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": null
+    },
+    {
+      "ime": "Urban",
+      "pri": "Grmek Masič",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": null
+    },
+    {
+      "ime": "Andreja",
+      "pri": "Živic",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": null
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": null
+    },
+    {
+      "ime": "Dragan",
+      "pri": "Sadžak",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": null
+    },
+    {
+      "ime": "Giuliana",
+      "pri": "Kuzmić",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": null
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Miklavec",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": null
+    },
+    {
+      "ime": "Goran",
+      "pri": "Živec",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": null
+    },
+    {
+      "ime": "Iris",
+      "pri": "Pahor",
+      "st": 107800,
+      "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+      "hcol": null
+    }
+  ],
+  "nastavitve": {
+    "timestamp": "0001-01-01T00:00:00Z",
+    "datum": null,
+    "cas_udelezba": null,
+    "has_udelezba": false,
+    "has_rezultat": false,
+    "has_kandidati_removed": false
+  }
+}

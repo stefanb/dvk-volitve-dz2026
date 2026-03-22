@@ -10,13 +10,13 @@
             "rez": null,
             "udel": {
               "upr": 25995,
-              "gl": 5106,
-              "prc": 0.1964
+              "gl": 11962,
+              "prc": 0.4602
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25995,
+              "gl": 5112,
+              "prc": 0.1967
             },
             "udel_16": {
               "upr": null,
@@ -32,13 +32,13 @@
             "rez": null,
             "udel": {
               "upr": 13446,
-              "gl": 2935,
-              "prc": 0.2183
+              "gl": 7190,
+              "prc": 0.5347
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13446,
+              "gl": 2940,
+              "prc": 0.2187
             },
             "udel_16": {
               "upr": null,
@@ -54,13 +54,13 @@
             "rez": null,
             "udel": {
               "upr": 16007,
-              "gl": 3408,
-              "prc": 0.2129
+              "gl": 8293,
+              "prc": 0.5181
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16007,
+              "gl": 3410,
+              "prc": 0.2130
             },
             "udel_16": {
               "upr": null,
@@ -76,13 +76,13 @@
             "rez": null,
             "udel": {
               "upr": 20303,
-              "gl": 4024,
-              "prc": 0.1982
+              "gl": 9723,
+              "prc": 0.4789
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20303,
+              "gl": 4030,
+              "prc": 0.1985
             },
             "udel_16": {
               "upr": null,
@@ -98,13 +98,13 @@
             "rez": null,
             "udel": {
               "upr": 20477,
-              "gl": 4111,
-              "prc": 0.2008
+              "gl": 10313,
+              "prc": 0.5036
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20477,
+              "gl": 4114,
+              "prc": 0.2009
             },
             "udel_16": {
               "upr": null,
@@ -120,13 +120,13 @@
             "rez": null,
             "udel": {
               "upr": 24697,
-              "gl": 6427,
-              "prc": 0.2602
+              "gl": 15106,
+              "prc": 0.6117
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 24697,
+              "gl": 6429,
+              "prc": 0.2603
             },
             "udel_16": {
               "upr": null,
@@ -142,13 +142,13 @@
             "rez": null,
             "udel": {
               "upr": 12371,
-              "gl": 2671,
-              "prc": 0.2159
+              "gl": 6054,
+              "prc": 0.4894
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 12371,
+              "gl": 2673,
+              "prc": 0.2161
             },
             "udel_16": {
               "upr": null,
@@ -164,13 +164,13 @@
             "rez": null,
             "udel": {
               "upr": 18705,
-              "gl": 4262,
-              "prc": 0.2279
+              "gl": 10089,
+              "prc": 0.5394
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18705,
+              "gl": 4269,
+              "prc": 0.2282
             },
             "udel_16": {
               "upr": null,
@@ -186,13 +186,13 @@
             "rez": null,
             "udel": {
               "upr": 15552,
-              "gl": 4329,
-              "prc": 0.2784
+              "gl": 9688,
+              "prc": 0.6229
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 15552,
+              "gl": 4333,
+              "prc": 0.2786
             },
             "udel_16": {
               "upr": null,
@@ -208,13 +208,13 @@
             "rez": null,
             "udel": {
               "upr": 28184,
-              "gl": 6019,
-              "prc": 0.2136
+              "gl": 14230,
+              "prc": 0.5049
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 28184,
+              "gl": 6024,
+              "prc": 0.2137
             },
             "udel_16": {
               "upr": null,
@@ -230,13 +230,13 @@
             "rez": null,
             "udel": {
               "upr": 13228,
-              "gl": 3187,
-              "prc": 0.2409
+              "gl": 7031,
+              "prc": 0.5315
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13228,
+              "gl": 3192,
+              "prc": 0.2413
             },
             "udel_16": {
               "upr": null,
@@ -252,13 +252,13 @@
         "rez": null,
         "udel": {
           "upr": 208965,
-          "gl": 46479,
-          "prc": 0.2224
+          "gl": 109679,
+          "prc": 0.5249
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 208965,
+          "gl": 46526,
+          "prc": 0.2226
         },
         "udel_16": {
           "upr": null,
@@ -276,13 +276,13 @@
             "rez": null,
             "udel": {
               "upr": 15729,
-              "gl": 4105,
-              "prc": 0.2610
+              "gl": 8431,
+              "prc": 0.5360
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 15729,
+              "gl": 4114,
+              "prc": 0.2616
             },
             "udel_16": {
               "upr": null,
@@ -297,14 +297,14 @@
             "naz": "VO 2002 - PIRAN",
             "rez": null,
             "udel": {
-              "upr": 14566,
-              "gl": 2602,
-              "prc": 0.1786
+              "upr": 14564,
+              "gl": 5899,
+              "prc": 0.4050
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14566,
+              "gl": 2614,
+              "prc": 0.1795
             },
             "udel_16": {
               "upr": null,
@@ -320,13 +320,13 @@
             "rez": null,
             "udel": {
               "upr": 12491,
-              "gl": 2383,
-              "prc": 0.1908
+              "gl": 5236,
+              "prc": 0.4192
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 12491,
+              "gl": 2389,
+              "prc": 0.1913
             },
             "udel_16": {
               "upr": null,
@@ -342,13 +342,13 @@
             "rez": null,
             "udel": {
               "upr": 18272,
-              "gl": 3196,
-              "prc": 0.1749
+              "gl": 7287,
+              "prc": 0.3988
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18272,
+              "gl": 3201,
+              "prc": 0.1752
             },
             "udel_16": {
               "upr": null,
@@ -364,13 +364,13 @@
             "rez": null,
             "udel": {
               "upr": 25574,
-              "gl": 5187,
-              "prc": 0.2028
+              "gl": 12096,
+              "prc": 0.4730
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25574,
+              "gl": 5188,
+              "prc": 0.2029
             },
             "udel_16": {
               "upr": null,
@@ -386,13 +386,13 @@
             "rez": null,
             "udel": {
               "upr": 22347,
-              "gl": 4464,
-              "prc": 0.1998
+              "gl": 10032,
+              "prc": 0.4489
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 22347,
+              "gl": 4466,
+              "prc": 0.1998
             },
             "udel_16": {
               "upr": null,
@@ -408,13 +408,13 @@
             "rez": null,
             "udel": {
               "upr": 12618,
-              "gl": 2544,
-              "prc": 0.2016
+              "gl": 5898,
+              "prc": 0.4674
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 12618,
+              "gl": 2544,
+              "prc": 0.2016
             },
             "udel_16": {
               "upr": null,
@@ -430,13 +430,13 @@
             "rez": null,
             "udel": {
               "upr": 18171,
-              "gl": 3533,
-              "prc": 0.1944
+              "gl": 8563,
+              "prc": 0.4712
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18171,
+              "gl": 3534,
+              "prc": 0.1945
             },
             "udel_16": {
               "upr": null,
@@ -452,13 +452,13 @@
             "rez": null,
             "udel": {
               "upr": 24934,
-              "gl": 6245,
-              "prc": 0.2505
+              "gl": 14168,
+              "prc": 0.5682
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 24934,
+              "gl": 6248,
+              "prc": 0.2506
             },
             "udel_16": {
               "upr": null,
@@ -474,13 +474,13 @@
             "rez": null,
             "udel": {
               "upr": 23824,
-              "gl": 4687,
-              "prc": 0.1967
+              "gl": 11241,
+              "prc": 0.4718
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23824,
+              "gl": 4688,
+              "prc": 0.1968
             },
             "udel_16": {
               "upr": null,
@@ -496,13 +496,13 @@
             "rez": null,
             "udel": {
               "upr": 20797,
-              "gl": 5247,
-              "prc": 0.2523
+              "gl": 11744,
+              "prc": 0.5647
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20797,
+              "gl": 5247,
+              "prc": 0.2523
             },
             "udel_16": {
               "upr": null,
@@ -517,14 +517,14 @@
         "naz": "VE 2000 - POSTOJNA",
         "rez": null,
         "udel": {
-          "upr": 209323,
-          "gl": 44193,
-          "prc": 0.2111
+          "upr": 209321,
+          "gl": 100595,
+          "prc": 0.4806
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 209323,
+          "gl": 44233,
+          "prc": 0.2113
         },
         "udel_16": {
           "upr": null,
@@ -542,13 +542,13 @@
             "rez": null,
             "udel": {
               "upr": 25272,
-              "gl": 5436,
-              "prc": 0.2151
+              "gl": 13356,
+              "prc": 0.5285
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25272,
+              "gl": 5438,
+              "prc": 0.2152
             },
             "udel_16": {
               "upr": null,
@@ -564,13 +564,13 @@
             "rez": null,
             "udel": {
               "upr": 20412,
-              "gl": 4783,
-              "prc": 0.2343
+              "gl": 11029,
+              "prc": 0.5403
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20412,
+              "gl": 4786,
+              "prc": 0.2345
             },
             "udel_16": {
               "upr": null,
@@ -586,13 +586,13 @@
             "rez": null,
             "udel": {
               "upr": 26319,
-              "gl": 6425,
-              "prc": 0.2441
+              "gl": 15048,
+              "prc": 0.5718
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 26319,
+              "gl": 6429,
+              "prc": 0.2443
             },
             "udel_16": {
               "upr": null,
@@ -608,13 +608,13 @@
             "rez": null,
             "udel": {
               "upr": 17049,
-              "gl": 3604,
-              "prc": 0.2114
+              "gl": 8695,
+              "prc": 0.5100
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17049,
+              "gl": 3608,
+              "prc": 0.2116
             },
             "udel_16": {
               "upr": null,
@@ -630,13 +630,13 @@
             "rez": null,
             "udel": {
               "upr": 16495,
-              "gl": 3456,
-              "prc": 0.2095
+              "gl": 8463,
+              "prc": 0.5131
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16495,
+              "gl": 3461,
+              "prc": 0.2098
             },
             "udel_16": {
               "upr": null,
@@ -651,14 +651,14 @@
             "naz": "VO 3006 - LJUBLJANA VIČ-RUDNIK 4",
             "rez": null,
             "udel": {
-              "upr": 22131,
-              "gl": 5300,
-              "prc": 0.2395
+              "upr": 22132,
+              "gl": 12206,
+              "prc": 0.5515
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 22131,
+              "gl": 5307,
+              "prc": 0.2398
             },
             "udel_16": {
               "upr": null,
@@ -674,13 +674,13 @@
             "rez": null,
             "udel": {
               "upr": 22185,
-              "gl": 3536,
-              "prc": 0.1594
+              "gl": 8595,
+              "prc": 0.3874
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 22185,
+              "gl": 3553,
+              "prc": 0.1602
             },
             "udel_16": {
               "upr": null,
@@ -696,13 +696,13 @@
             "rez": null,
             "udel": {
               "upr": 13879,
-              "gl": 2771,
-              "prc": 0.1997
+              "gl": 6697,
+              "prc": 0.4825
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13879,
+              "gl": 2779,
+              "prc": 0.2002
             },
             "udel_16": {
               "upr": null,
@@ -718,13 +718,13 @@
             "rez": null,
             "udel": {
               "upr": 18160,
-              "gl": 3649,
-              "prc": 0.2009
+              "gl": 9106,
+              "prc": 0.5014
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18160,
+              "gl": 3655,
+              "prc": 0.2013
             },
             "udel_16": {
               "upr": null,
@@ -740,13 +740,13 @@
             "rez": null,
             "udel": {
               "upr": 16753,
-              "gl": 3438,
-              "prc": 0.2052
+              "gl": 8563,
+              "prc": 0.5111
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16753,
+              "gl": 3442,
+              "prc": 0.2055
             },
             "udel_16": {
               "upr": null,
@@ -762,13 +762,13 @@
             "rez": null,
             "udel": {
               "upr": 23063,
-              "gl": 5603,
-              "prc": 0.2429
+              "gl": 12991,
+              "prc": 0.5633
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23063,
+              "gl": 5614,
+              "prc": 0.2434
             },
             "udel_16": {
               "upr": null,
@@ -783,14 +783,14 @@
         "naz": "VE 3000 - LJUBLJANA CENTER",
         "rez": null,
         "udel": {
-          "upr": 221718,
-          "gl": 48001,
-          "prc": 0.2165
+          "upr": 221719,
+          "gl": 114749,
+          "prc": 0.5175
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 221718,
+          "gl": 48072,
+          "prc": 0.2168
         },
         "udel_16": {
           "upr": null,
@@ -808,13 +808,13 @@
             "rez": null,
             "udel": {
               "upr": 14084,
-              "gl": 2713,
-              "prc": 0.1926
+              "gl": 6365,
+              "prc": 0.4519
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14084,
+              "gl": 2717,
+              "prc": 0.1929
             },
             "udel_16": {
               "upr": null,
@@ -830,13 +830,13 @@
             "rez": null,
             "udel": {
               "upr": 14624,
-              "gl": 3401,
-              "prc": 0.2326
+              "gl": 7973,
+              "prc": 0.5452
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14624,
+              "gl": 3402,
+              "prc": 0.2326
             },
             "udel_16": {
               "upr": null,
@@ -852,13 +852,13 @@
             "rez": null,
             "udel": {
               "upr": 16349,
-              "gl": 3775,
-              "prc": 0.2309
+              "gl": 8744,
+              "prc": 0.5348
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16349,
+              "gl": 3777,
+              "prc": 0.2310
             },
             "udel_16": {
               "upr": null,
@@ -874,13 +874,13 @@
             "rez": null,
             "udel": {
               "upr": 13429,
-              "gl": 3185,
-              "prc": 0.2372
+              "gl": 7741,
+              "prc": 0.5764
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13429,
+              "gl": 3187,
+              "prc": 0.2373
             },
             "udel_16": {
               "upr": null,
@@ -896,13 +896,13 @@
             "rez": null,
             "udel": {
               "upr": 23424,
-              "gl": 5398,
-              "prc": 0.2304
+              "gl": 12484,
+              "prc": 0.5330
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23424,
+              "gl": 5401,
+              "prc": 0.2306
             },
             "udel_16": {
               "upr": null,
@@ -918,13 +918,13 @@
             "rez": null,
             "udel": {
               "upr": 14854,
-              "gl": 2943,
-              "prc": 0.1981
+              "gl": 6951,
+              "prc": 0.4680
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14854,
+              "gl": 2950,
+              "prc": 0.1986
             },
             "udel_16": {
               "upr": null,
@@ -940,13 +940,13 @@
             "rez": null,
             "udel": {
               "upr": 20004,
-              "gl": 3879,
-              "prc": 0.1939
+              "gl": 9500,
+              "prc": 0.4749
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20004,
+              "gl": 3881,
+              "prc": 0.1940
             },
             "udel_16": {
               "upr": null,
@@ -962,13 +962,13 @@
             "rez": null,
             "udel": {
               "upr": 23581,
-              "gl": 4911,
-              "prc": 0.2083
+              "gl": 11991,
+              "prc": 0.5085
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23581,
+              "gl": 4916,
+              "prc": 0.2085
             },
             "udel_16": {
               "upr": null,
@@ -984,13 +984,13 @@
             "rez": null,
             "udel": {
               "upr": 21616,
-              "gl": 3870,
-              "prc": 0.1790
+              "gl": 9532,
+              "prc": 0.4410
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21616,
+              "gl": 3880,
+              "prc": 0.1795
             },
             "udel_16": {
               "upr": null,
@@ -1006,13 +1006,13 @@
             "rez": null,
             "udel": {
               "upr": 25055,
-              "gl": 5349,
-              "prc": 0.2135
+              "gl": 13426,
+              "prc": 0.5359
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25055,
+              "gl": 5351,
+              "prc": 0.2136
             },
             "udel_16": {
               "upr": null,
@@ -1028,13 +1028,13 @@
             "rez": null,
             "udel": {
               "upr": 23001,
-              "gl": 4645,
-              "prc": 0.2019
+              "gl": 11897,
+              "prc": 0.5172
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23001,
+              "gl": 4646,
+              "prc": 0.2020
             },
             "udel_16": {
               "upr": null,
@@ -1050,13 +1050,13 @@
         "rez": null,
         "udel": {
           "upr": 210021,
-          "gl": 44069,
-          "prc": 0.2098
+          "gl": 106604,
+          "prc": 0.5076
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 210021,
+          "gl": 44108,
+          "prc": 0.2100
         },
         "udel_16": {
           "upr": null,
@@ -1074,13 +1074,13 @@
             "rez": null,
             "udel": {
               "upr": 17130,
-              "gl": 3739,
-              "prc": 0.2183
+              "gl": 9094,
+              "prc": 0.5309
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17130,
+              "gl": 3742,
+              "prc": 0.2184
             },
             "udel_16": {
               "upr": null,
@@ -1096,13 +1096,13 @@
             "rez": null,
             "udel": {
               "upr": 29519,
-              "gl": 6796,
-              "prc": 0.2302
+              "gl": 15631,
+              "prc": 0.5295
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 29519,
+              "gl": 6801,
+              "prc": 0.2304
             },
             "udel_16": {
               "upr": null,
@@ -1118,13 +1118,13 @@
             "rez": null,
             "udel": {
               "upr": 21240,
-              "gl": 4459,
-              "prc": 0.2099
+              "gl": 9791,
+              "prc": 0.4610
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21240,
+              "gl": 4468,
+              "prc": 0.2104
             },
             "udel_16": {
               "upr": null,
@@ -1140,13 +1140,13 @@
             "rez": null,
             "udel": {
               "upr": 18306,
-              "gl": 4338,
-              "prc": 0.2370
+              "gl": 9805,
+              "prc": 0.5356
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18306,
+              "gl": 4340,
+              "prc": 0.2371
             },
             "udel_16": {
               "upr": null,
@@ -1162,13 +1162,13 @@
             "rez": null,
             "udel": {
               "upr": 18918,
-              "gl": 4509,
-              "prc": 0.2383
+              "gl": 10637,
+              "prc": 0.5623
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18919,
+              "gl": 4521,
+              "prc": 0.2390
             },
             "udel_16": {
               "upr": null,
@@ -1184,13 +1184,13 @@
             "rez": null,
             "udel": {
               "upr": 13537,
-              "gl": 3125,
-              "prc": 0.2308
+              "gl": 7643,
+              "prc": 0.5646
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13537,
+              "gl": 3127,
+              "prc": 0.2310
             },
             "udel_16": {
               "upr": null,
@@ -1206,13 +1206,13 @@
             "rez": null,
             "udel": {
               "upr": 16034,
-              "gl": 3615,
-              "prc": 0.2255
+              "gl": 7946,
+              "prc": 0.4956
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16034,
+              "gl": 3616,
+              "prc": 0.2255
             },
             "udel_16": {
               "upr": null,
@@ -1228,13 +1228,13 @@
             "rez": null,
             "udel": {
               "upr": 17201,
-              "gl": 3819,
-              "prc": 0.2220
+              "gl": 9146,
+              "prc": 0.5317
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17201,
+              "gl": 3822,
+              "prc": 0.2222
             },
             "udel_16": {
               "upr": null,
@@ -1250,13 +1250,13 @@
             "rez": null,
             "udel": {
               "upr": 17967,
-              "gl": 3673,
-              "prc": 0.2044
+              "gl": 9644,
+              "prc": 0.5368
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17967,
+              "gl": 3679,
+              "prc": 0.2048
             },
             "udel_16": {
               "upr": null,
@@ -1272,13 +1272,13 @@
             "rez": null,
             "udel": {
               "upr": 20468,
-              "gl": 4439,
-              "prc": 0.2169
+              "gl": 10553,
+              "prc": 0.5156
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20468,
+              "gl": 4445,
+              "prc": 0.2172
             },
             "udel_16": {
               "upr": null,
@@ -1294,13 +1294,13 @@
             "rez": null,
             "udel": {
               "upr": 20289,
-              "gl": 4023,
-              "prc": 0.1983
+              "gl": 10020,
+              "prc": 0.4939
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20289,
+              "gl": 4026,
+              "prc": 0.1984
             },
             "udel_16": {
               "upr": null,
@@ -1316,13 +1316,13 @@
         "rez": null,
         "udel": {
           "upr": 210609,
-          "gl": 46535,
-          "prc": 0.2210
+          "gl": 109910,
+          "prc": 0.5219
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 210610,
+          "gl": 46587,
+          "prc": 0.2212
         },
         "udel_16": {
           "upr": null,
@@ -1340,13 +1340,13 @@
             "rez": null,
             "udel": {
               "upr": 22742,
-              "gl": 4873,
-              "prc": 0.2143
+              "gl": 10682,
+              "prc": 0.4697
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 22742,
+              "gl": 4877,
+              "prc": 0.2144
             },
             "udel_16": {
               "upr": null,
@@ -1362,13 +1362,13 @@
             "rez": null,
             "udel": {
               "upr": 24536,
-              "gl": 5967,
-              "prc": 0.2432
+              "gl": 14125,
+              "prc": 0.5757
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 24536,
+              "gl": 5972,
+              "prc": 0.2434
             },
             "udel_16": {
               "upr": null,
@@ -1384,13 +1384,13 @@
             "rez": null,
             "udel": {
               "upr": 25936,
-              "gl": 6588,
-              "prc": 0.2540
+              "gl": 14102,
+              "prc": 0.5437
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25936,
+              "gl": 6594,
+              "prc": 0.2542
             },
             "udel_16": {
               "upr": null,
@@ -1406,13 +1406,13 @@
             "rez": null,
             "udel": {
               "upr": 17281,
-              "gl": 4038,
-              "prc": 0.2337
+              "gl": 9719,
+              "prc": 0.5624
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17281,
+              "gl": 4039,
+              "prc": 0.2337
             },
             "udel_16": {
               "upr": null,
@@ -1428,13 +1428,13 @@
             "rez": null,
             "udel": {
               "upr": 21150,
-              "gl": 4367,
-              "prc": 0.2065
+              "gl": 9834,
+              "prc": 0.4650
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21150,
+              "gl": 4371,
+              "prc": 0.2067
             },
             "udel_16": {
               "upr": null,
@@ -1450,13 +1450,13 @@
             "rez": null,
             "udel": {
               "upr": 23174,
-              "gl": 4996,
-              "prc": 0.2156
+              "gl": 11899,
+              "prc": 0.5135
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23174,
+              "gl": 4997,
+              "prc": 0.2156
             },
             "udel_16": {
               "upr": null,
@@ -1472,13 +1472,13 @@
             "rez": null,
             "udel": {
               "upr": 17001,
-              "gl": 4020,
-              "prc": 0.2365
+              "gl": 9096,
+              "prc": 0.5350
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17001,
+              "gl": 4027,
+              "prc": 0.2369
             },
             "udel_16": {
               "upr": null,
@@ -1494,13 +1494,13 @@
             "rez": null,
             "udel": {
               "upr": 14560,
-              "gl": 2987,
-              "prc": 0.2052
+              "gl": 7117,
+              "prc": 0.4888
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14560,
+              "gl": 2992,
+              "prc": 0.2055
             },
             "udel_16": {
               "upr": null,
@@ -1516,13 +1516,13 @@
             "rez": null,
             "udel": {
               "upr": 17299,
-              "gl": 4140,
-              "prc": 0.2393
+              "gl": 9275,
+              "prc": 0.5362
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17299,
+              "gl": 4145,
+              "prc": 0.2396
             },
             "udel_16": {
               "upr": null,
@@ -1537,14 +1537,14 @@
             "naz": "VO 6010 - HRASTNIK-TRBOVLJE",
             "rez": null,
             "udel": {
-              "upr": 20676,
-              "gl": 4365,
-              "prc": 0.2111
+              "upr": 20678,
+              "gl": 9165,
+              "prc": 0.4432
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 20678,
+              "gl": 4377,
+              "prc": 0.2117
             },
             "udel_16": {
               "upr": null,
@@ -1559,14 +1559,14 @@
             "naz": "VO 6011 - ZAGORJE",
             "rez": null,
             "udel": {
-              "upr": 13592,
-              "gl": 3124,
-              "prc": 0.2298
+              "upr": 13590,
+              "gl": 6957,
+              "prc": 0.5119
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13592,
+              "gl": 3127,
+              "prc": 0.2301
             },
             "udel_16": {
               "upr": null,
@@ -1582,13 +1582,13 @@
         "rez": null,
         "udel": {
           "upr": 217947,
-          "gl": 49465,
-          "prc": 0.2270
+          "gl": 111971,
+          "prc": 0.5138
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 217949,
+          "gl": 49518,
+          "prc": 0.2272
         },
         "udel_16": {
           "upr": null,
@@ -1606,13 +1606,13 @@
             "rez": null,
             "udel": {
               "upr": 27885,
-              "gl": 6160,
-              "prc": 0.2209
+              "gl": 13973,
+              "prc": 0.5011
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 27885,
+              "gl": 6165,
+              "prc": 0.2211
             },
             "udel_16": {
               "upr": null,
@@ -1628,13 +1628,13 @@
             "rez": null,
             "udel": {
               "upr": 25170,
-              "gl": 5593,
-              "prc": 0.2222
+              "gl": 13350,
+              "prc": 0.5304
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 25170,
+              "gl": 5594,
+              "prc": 0.2222
             },
             "udel_16": {
               "upr": null,
@@ -1650,13 +1650,13 @@
             "rez": null,
             "udel": {
               "upr": 19000,
-              "gl": 4462,
-              "prc": 0.2348
+              "gl": 10455,
+              "prc": 0.5503
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 19000,
+              "gl": 4466,
+              "prc": 0.2351
             },
             "udel_16": {
               "upr": null,
@@ -1672,13 +1672,13 @@
             "rez": null,
             "udel": {
               "upr": 12516,
-              "gl": 2699,
-              "prc": 0.2156
+              "gl": 6071,
+              "prc": 0.4851
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 12516,
+              "gl": 2702,
+              "prc": 0.2159
             },
             "udel_16": {
               "upr": null,
@@ -1694,13 +1694,13 @@
             "rez": null,
             "udel": {
               "upr": 23701,
-              "gl": 4946,
-              "prc": 0.2087
+              "gl": 12022,
+              "prc": 0.5072
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 23701,
+              "gl": 4947,
+              "prc": 0.2087
             },
             "udel_16": {
               "upr": null,
@@ -1716,13 +1716,13 @@
             "rez": null,
             "udel": {
               "upr": 21160,
-              "gl": 4284,
-              "prc": 0.2025
+              "gl": 10770,
+              "prc": 0.5090
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21160,
+              "gl": 4286,
+              "prc": 0.2026
             },
             "udel_16": {
               "upr": null,
@@ -1738,13 +1738,13 @@
             "rez": null,
             "udel": {
               "upr": 17407,
-              "gl": 3554,
-              "prc": 0.2042
+              "gl": 8768,
+              "prc": 0.5037
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17407,
+              "gl": 3554,
+              "prc": 0.2042
             },
             "udel_16": {
               "upr": null,
@@ -1760,13 +1760,13 @@
             "rez": null,
             "udel": {
               "upr": 13841,
-              "gl": 2167,
-              "prc": 0.1566
+              "gl": 5130,
+              "prc": 0.3706
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13841,
+              "gl": 2170,
+              "prc": 0.1568
             },
             "udel_16": {
               "upr": null,
@@ -1782,13 +1782,13 @@
             "rez": null,
             "udel": {
               "upr": 16994,
-              "gl": 3024,
-              "prc": 0.1779
+              "gl": 7687,
+              "prc": 0.4523
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16994,
+              "gl": 3030,
+              "prc": 0.1783
             },
             "udel_16": {
               "upr": null,
@@ -1804,13 +1804,13 @@
             "rez": null,
             "udel": {
               "upr": 15745,
-              "gl": 3380,
-              "prc": 0.2147
+              "gl": 7749,
+              "prc": 0.4922
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 15745,
+              "gl": 3382,
+              "prc": 0.2148
             },
             "udel_16": {
               "upr": null,
@@ -1826,13 +1826,13 @@
             "rez": null,
             "udel": {
               "upr": 13288,
-              "gl": 2445,
-              "prc": 0.1840
+              "gl": 5566,
+              "prc": 0.4189
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 13288,
+              "gl": 2445,
+              "prc": 0.1840
             },
             "udel_16": {
               "upr": null,
@@ -1848,13 +1848,13 @@
         "rez": null,
         "udel": {
           "upr": 206707,
-          "gl": 42714,
-          "prc": 0.2066
+          "gl": 101541,
+          "prc": 0.4912
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 206707,
+          "gl": 42741,
+          "prc": 0.2068
         },
         "udel_16": {
           "upr": null,
@@ -1872,13 +1872,13 @@
             "rez": null,
             "udel": {
               "upr": 21175,
-              "gl": 3562,
-              "prc": 0.1682
+              "gl": 9181,
+              "prc": 0.4336
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21175,
+              "gl": 3562,
+              "prc": 0.1682
             },
             "udel_16": {
               "upr": null,
@@ -1894,13 +1894,13 @@
             "rez": null,
             "udel": {
               "upr": 14064,
-              "gl": 2936,
-              "prc": 0.2088
+              "gl": 7464,
+              "prc": 0.5307
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 14064,
+              "gl": 2939,
+              "prc": 0.2090
             },
             "udel_16": {
               "upr": null,
@@ -1916,13 +1916,13 @@
             "rez": null,
             "udel": {
               "upr": 15077,
-              "gl": 3043,
-              "prc": 0.2018
+              "gl": 7551,
+              "prc": 0.5008
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 15077,
+              "gl": 3044,
+              "prc": 0.2019
             },
             "udel_16": {
               "upr": null,
@@ -1938,13 +1938,13 @@
             "rez": null,
             "udel": {
               "upr": 24295,
-              "gl": 4360,
-              "prc": 0.1795
+              "gl": 11751,
+              "prc": 0.4837
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 24295,
+              "gl": 4361,
+              "prc": 0.1795
             },
             "udel_16": {
               "upr": null,
@@ -1960,13 +1960,13 @@
             "rez": null,
             "udel": {
               "upr": 24750,
-              "gl": 4554,
-              "prc": 0.184
+              "gl": 11914,
+              "prc": 0.4814
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 24750,
+              "gl": 4560,
+              "prc": 0.1842
             },
             "udel_16": {
               "upr": null,
@@ -1982,13 +1982,13 @@
             "rez": null,
             "udel": {
               "upr": 17770,
-              "gl": 3628,
-              "prc": 0.2042
+              "gl": 9045,
+              "prc": 0.5090
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 17770,
+              "gl": 3630,
+              "prc": 0.2043
             },
             "udel_16": {
               "upr": null,
@@ -2004,13 +2004,13 @@
             "rez": null,
             "udel": {
               "upr": 16698,
-              "gl": 3567,
-              "prc": 0.2136
+              "gl": 8401,
+              "prc": 0.5031
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16698,
+              "gl": 3568,
+              "prc": 0.2137
             },
             "udel_16": {
               "upr": null,
@@ -2026,13 +2026,13 @@
             "rez": null,
             "udel": {
               "upr": 18126,
-              "gl": 3517,
-              "prc": 0.1940
+              "gl": 8747,
+              "prc": 0.4826
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 18126,
+              "gl": 3517,
+              "prc": 0.1940
             },
             "udel_16": {
               "upr": null,
@@ -2048,13 +2048,13 @@
             "rez": null,
             "udel": {
               "upr": 21430,
-              "gl": 4378,
-              "prc": 0.2043
+              "gl": 11980,
+              "prc": 0.5590
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 21430,
+              "gl": 4383,
+              "prc": 0.2045
             },
             "udel_16": {
               "upr": null,
@@ -2070,13 +2070,13 @@
             "rez": null,
             "udel": {
               "upr": 16947,
-              "gl": 3362,
-              "prc": 0.1984
+              "gl": 8464,
+              "prc": 0.4994
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 16947,
+              "gl": 3367,
+              "prc": 0.1987
             },
             "udel_16": {
               "upr": null,
@@ -2092,13 +2092,13 @@
             "rez": null,
             "udel": {
               "upr": 19582,
-              "gl": 4020,
-              "prc": 0.2053
+              "gl": 10362,
+              "prc": 0.5292
             },
             "udel_11": {
-              "upr": null,
-              "gl": 0,
-              "prc": null
+              "upr": 19582,
+              "gl": 4024,
+              "prc": 0.2055
             },
             "udel_16": {
               "upr": null,
@@ -2114,13 +2114,13 @@
         "rez": null,
         "udel": {
           "upr": 209914,
-          "gl": 40927,
-          "prc": 0.1950
+          "gl": 104860,
+          "prc": 0.4995
         },
         "udel_11": {
-          "upr": null,
-          "gl": 0,
-          "prc": null
+          "upr": 209914,
+          "gl": 40955,
+          "prc": 0.1951
         },
         "udel_16": {
           "upr": null,
@@ -2137,12 +2137,12 @@
         "rez": null,
         "udel": {
           "upr": null,
-          "gl": 732,
+          "gl": 1885,
           "prc": null
         },
         "udel_11": {
           "upr": null,
-          "gl": 0,
+          "gl": 1089,
           "prc": null
         },
         "udel_16": {
@@ -2157,28 +2157,28 @@
     "udel": {
       "upr_red": 1695196,
       "upr_pos": 0,
-      "gl_ime": 362375,
-      "gl_pot": 8,
+      "gl_ime": 859902,
+      "gl_pot": 7,
       "gl_pos": 0,
       "gl_inv": 0,
-      "gl_vol_omnia": 732,
+      "gl_vol_omnia": 1885,
       "gl_vol_inv": null,
-      "upr": 1695204,
-      "gl": 362383,
-      "prc": 0.2138
+      "upr": 1695203,
+      "gl": 859909,
+      "prc": 0.5073
     },
     "udel_11": {
-      "upr_red": null,
+      "upr_red": 1695196,
       "upr_pos": 0,
-      "gl_ime": 0,
-      "gl_pot": 0,
+      "gl_ime": 362729,
+      "gl_pot": 11,
       "gl_pos": 0,
       "gl_inv": 0,
-      "gl_vol_omnia": null,
+      "gl_vol_omnia": 1089,
       "gl_vol_inv": null,
-      "upr": null,
-      "gl": 0,
-      "prc": null
+      "upr": 1695207,
+      "gl": 362740,
+      "prc": 0.2140
     },
     "udel_16": {
       "upr_red": null,
@@ -2196,11 +2196,11 @@
     "prestetih_glasov": null
   },
   "nastavitve": {
-    "timestamp": "2026-03-22T12:02:42.306Z",
-    "datum": "2026-03-22T12:30:00Z",
-    "cas_udelezba": "11:00",
+    "timestamp": "2026-03-22T16:58:37Z",
+    "datum": "2026-03-22T17:30:00Z",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
-    "has_udel_11": false,
+    "has_udel_11": true,
     "has_udel_16": false,
     "has_rezultat": false,
     "is_final": false,

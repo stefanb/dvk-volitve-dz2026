@@ -13,8 +13,8 @@
       "rez": null,
       "udel": {
         "upr": 56,
-        "gl": 7,
-        "prc": 0.125
+        "gl": 25,
+        "prc": 0.4464
       },
       "prestetih_glasov": null
     },
@@ -25,8 +25,8 @@
       "rez": null,
       "udel": {
         "upr": 703,
-        "gl": 175,
-        "prc": 0.2489
+        "gl": 406,
+        "prc": 0.5775
       },
       "prestetih_glasov": null
     },
@@ -37,8 +37,8 @@
       "rez": null,
       "udel": {
         "upr": 412,
-        "gl": 112,
-        "prc": 0.2718
+        "gl": 235,
+        "prc": 0.5704
       },
       "prestetih_glasov": null
     },
@@ -49,8 +49,8 @@
       "rez": null,
       "udel": {
         "upr": 512,
-        "gl": 85,
-        "prc": 0.1660
+        "gl": 233,
+        "prc": 0.4551
       },
       "prestetih_glasov": null
     },
@@ -61,8 +61,8 @@
       "rez": null,
       "udel": {
         "upr": 252,
-        "gl": 52,
-        "prc": 0.2063
+        "gl": 137,
+        "prc": 0.5437
       },
       "prestetih_glasov": null
     },
@@ -73,8 +73,8 @@
       "rez": null,
       "udel": {
         "upr": 519,
-        "gl": 107,
-        "prc": 0.2062
+        "gl": 239,
+        "prc": 0.4605
       },
       "prestetih_glasov": null
     },
@@ -85,8 +85,8 @@
       "rez": null,
       "udel": {
         "upr": 277,
-        "gl": 73,
-        "prc": 0.2635
+        "gl": 157,
+        "prc": 0.5668
       },
       "prestetih_glasov": null
     },
@@ -97,8 +97,8 @@
       "rez": null,
       "udel": {
         "upr": 139,
-        "gl": 17,
-        "prc": 0.1223
+        "gl": 69,
+        "prc": 0.4964
       },
       "prestetih_glasov": null
     },
@@ -109,8 +109,8 @@
       "rez": null,
       "udel": {
         "upr": 583,
-        "gl": 108,
-        "prc": 0.1852
+        "gl": 295,
+        "prc": 0.5060
       },
       "prestetih_glasov": null
     },
@@ -121,8 +121,8 @@
       "rez": null,
       "udel": {
         "upr": 163,
-        "gl": 39,
-        "prc": 0.2393
+        "gl": 80,
+        "prc": 0.4908
       },
       "prestetih_glasov": null
     },
@@ -133,8 +133,8 @@
       "rez": null,
       "udel": {
         "upr": 178,
-        "gl": 24,
-        "prc": 0.1348
+        "gl": 69,
+        "prc": 0.3876
       },
       "prestetih_glasov": null
     },
@@ -145,8 +145,8 @@
       "rez": null,
       "udel": {
         "upr": 384,
-        "gl": 78,
-        "prc": 0.2031
+        "gl": 201,
+        "prc": 0.5234
       },
       "prestetih_glasov": null
     },
@@ -157,8 +157,8 @@
       "rez": null,
       "udel": {
         "upr": 469,
-        "gl": 97,
-        "prc": 0.2068
+        "gl": 248,
+        "prc": 0.5288
       },
       "prestetih_glasov": null
     },
@@ -169,8 +169,8 @@
       "rez": null,
       "udel": {
         "upr": 636,
-        "gl": 140,
-        "prc": 0.2201
+        "gl": 357,
+        "prc": 0.5613
       },
       "prestetih_glasov": null
     },
@@ -181,8 +181,8 @@
       "rez": null,
       "udel": {
         "upr": 646,
-        "gl": 103,
-        "prc": 0.1594
+        "gl": 269,
+        "prc": 0.4164
       },
       "prestetih_glasov": null
     },
@@ -193,8 +193,8 @@
       "rez": null,
       "udel": {
         "upr": 641,
-        "gl": 125,
-        "prc": 0.1950
+        "gl": 294,
+        "prc": 0.4587
       },
       "prestetih_glasov": null
     },
@@ -205,8 +205,8 @@
       "rez": null,
       "udel": {
         "upr": 802,
-        "gl": 104,
-        "prc": 0.1297
+        "gl": 340,
+        "prc": 0.4239
       },
       "prestetih_glasov": null
     },
@@ -217,8 +217,8 @@
       "rez": null,
       "udel": {
         "upr": 278,
-        "gl": 45,
-        "prc": 0.1619
+        "gl": 149,
+        "prc": 0.5360
       },
       "prestetih_glasov": null
     },
@@ -229,8 +229,8 @@
       "rez": null,
       "udel": {
         "upr": 168,
-        "gl": 34,
-        "prc": 0.2024
+        "gl": 88,
+        "prc": 0.5238
       },
       "prestetih_glasov": null
     },
@@ -241,8 +241,8 @@
       "rez": null,
       "udel": {
         "upr": 337,
-        "gl": 42,
-        "prc": 0.1246
+        "gl": 147,
+        "prc": 0.4362
       },
       "prestetih_glasov": null
     },
@@ -253,8 +253,8 @@
       "rez": null,
       "udel": {
         "upr": 452,
-        "gl": 78,
-        "prc": 0.1726
+        "gl": 243,
+        "prc": 0.5376
       },
       "prestetih_glasov": null
     },
@@ -265,8 +265,8 @@
       "rez": null,
       "udel": {
         "upr": 408,
-        "gl": 105,
-        "prc": 0.2574
+        "gl": 215,
+        "prc": 0.5270
       },
       "prestetih_glasov": null
     },
@@ -277,8 +277,8 @@
       "rez": null,
       "udel": {
         "upr": 441,
-        "gl": 75,
-        "prc": 0.1701
+        "gl": 242,
+        "prc": 0.5488
       },
       "prestetih_glasov": null
     },
@@ -289,8 +289,8 @@
       "rez": null,
       "udel": {
         "upr": 468,
-        "gl": 81,
-        "prc": 0.1731
+        "gl": 209,
+        "prc": 0.4466
       },
       "prestetih_glasov": null
     },
@@ -301,8 +301,8 @@
       "rez": null,
       "udel": {
         "upr": 141,
-        "gl": 24,
-        "prc": 0.1702
+        "gl": 62,
+        "prc": 0.4397
       },
       "prestetih_glasov": null
     },
@@ -313,8 +313,8 @@
       "rez": null,
       "udel": {
         "upr": 437,
-        "gl": 87,
-        "prc": 0.1991
+        "gl": 255,
+        "prc": 0.5835
       },
       "prestetih_glasov": null
     },
@@ -325,8 +325,8 @@
       "rez": null,
       "udel": {
         "upr": 302,
-        "gl": 35,
-        "prc": 0.1159
+        "gl": 130,
+        "prc": 0.4305
       },
       "prestetih_glasov": null
     },
@@ -337,8 +337,8 @@
       "rez": null,
       "udel": {
         "upr": 354,
-        "gl": 81,
-        "prc": 0.2288
+        "gl": 177,
+        "prc": 0.5
       },
       "prestetih_glasov": null
     },
@@ -349,8 +349,8 @@
       "rez": null,
       "udel": {
         "upr": 633,
-        "gl": 97,
-        "prc": 0.1532
+        "gl": 349,
+        "prc": 0.5513
       },
       "prestetih_glasov": null
     },
@@ -361,8 +361,8 @@
       "rez": null,
       "udel": {
         "upr": 566,
-        "gl": 137,
-        "prc": 0.2420
+        "gl": 325,
+        "prc": 0.5742
       },
       "prestetih_glasov": null
     },
@@ -373,8 +373,8 @@
       "rez": null,
       "udel": {
         "upr": 643,
-        "gl": 116,
-        "prc": 0.1804
+        "gl": 305,
+        "prc": 0.4743
       },
       "prestetih_glasov": null
     },
@@ -385,8 +385,8 @@
       "rez": null,
       "udel": {
         "upr": 504,
-        "gl": 86,
-        "prc": 0.1706
+        "gl": 220,
+        "prc": 0.4365
       },
       "prestetih_glasov": null
     },
@@ -397,8 +397,8 @@
       "rez": null,
       "udel": {
         "upr": 394,
-        "gl": 57,
-        "prc": 0.1447
+        "gl": 223,
+        "prc": 0.5660
       },
       "prestetih_glasov": null
     },
@@ -409,8 +409,8 @@
       "rez": null,
       "udel": {
         "upr": 83,
-        "gl": 11,
-        "prc": 0.1325
+        "gl": 35,
+        "prc": 0.4217
       },
       "prestetih_glasov": null
     },
@@ -421,8 +421,8 @@
       "rez": null,
       "udel": {
         "upr": 88,
-        "gl": 28,
-        "prc": 0.3182
+        "gl": 56,
+        "prc": 0.6364
       },
       "prestetih_glasov": null
     },
@@ -433,8 +433,8 @@
       "rez": null,
       "udel": {
         "upr": 246,
-        "gl": 65,
-        "prc": 0.2642
+        "gl": 143,
+        "prc": 0.5813
       },
       "prestetih_glasov": null
     },
@@ -445,8 +445,8 @@
       "rez": null,
       "udel": {
         "upr": 467,
-        "gl": 110,
-        "prc": 0.2355
+        "gl": 249,
+        "prc": 0.5332
       },
       "prestetih_glasov": null
     },
@@ -457,8 +457,8 @@
       "rez": null,
       "udel": {
         "upr": 451,
-        "gl": 113,
-        "prc": 0.2506
+        "gl": 281,
+        "prc": 0.6231
       },
       "prestetih_glasov": null
     },
@@ -469,8 +469,8 @@
       "rez": null,
       "udel": {
         "upr": 190,
-        "gl": 58,
-        "prc": 0.3053
+        "gl": 106,
+        "prc": 0.5579
       },
       "prestetih_glasov": null
     },
@@ -481,8 +481,8 @@
       "rez": null,
       "udel": {
         "upr": 447,
-        "gl": 80,
-        "prc": 0.1790
+        "gl": 222,
+        "prc": 0.4966
       },
       "prestetih_glasov": null
     },
@@ -493,8 +493,8 @@
       "rez": null,
       "udel": {
         "upr": 491,
-        "gl": 131,
-        "prc": 0.2668
+        "gl": 303,
+        "prc": 0.6171
       },
       "prestetih_glasov": null
     },
@@ -505,8 +505,8 @@
       "rez": null,
       "udel": {
         "upr": 175,
-        "gl": 58,
-        "prc": 0.3314
+        "gl": 110,
+        "prc": 0.6286
       },
       "prestetih_glasov": null
     },
@@ -517,8 +517,8 @@
       "rez": null,
       "udel": {
         "upr": 85,
-        "gl": 25,
-        "prc": 0.2941
+        "gl": 47,
+        "prc": 0.5529
       },
       "prestetih_glasov": null
     },
@@ -529,8 +529,8 @@
       "rez": null,
       "udel": {
         "upr": 494,
-        "gl": 128,
-        "prc": 0.2591
+        "gl": 255,
+        "prc": 0.5162
       },
       "prestetih_glasov": null
     },
@@ -541,8 +541,8 @@
       "rez": null,
       "udel": {
         "upr": 547,
-        "gl": 68,
-        "prc": 0.1243
+        "gl": 237,
+        "prc": 0.4333
       },
       "prestetih_glasov": null
     },
@@ -553,8 +553,8 @@
       "rez": null,
       "udel": {
         "upr": 271,
-        "gl": 40,
-        "prc": 0.1476
+        "gl": 103,
+        "prc": 0.3801
       },
       "prestetih_glasov": null
     },
@@ -565,8 +565,8 @@
       "rez": null,
       "udel": {
         "upr": 61,
-        "gl": 14,
-        "prc": 0.2295
+        "gl": 28,
+        "prc": 0.4590
       },
       "prestetih_glasov": null
     },
@@ -718,9 +718,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2026-03-22T12:02:42.306Z",
-    "datum": "2026-03-22T12:30:00Z",
-    "cas_udelezba": "11:00",
+    "timestamp": "2026-03-22T16:58:37Z",
+    "datum": "2026-03-22T17:30:00Z",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

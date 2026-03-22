@@ -13,8 +13,8 @@
       "rez": null,
       "udel": {
         "upr": 1068,
-        "gl": 255,
-        "prc": 0.2388
+        "gl": 652,
+        "prc": 0.6105
       },
       "prestetih_glasov": null
     },
@@ -25,8 +25,8 @@
       "rez": null,
       "udel": {
         "upr": 482,
-        "gl": 113,
-        "prc": 0.2344
+        "gl": 247,
+        "prc": 0.5124
       },
       "prestetih_glasov": null
     },
@@ -37,8 +37,8 @@
       "rez": null,
       "udel": {
         "upr": 806,
-        "gl": 190,
-        "prc": 0.2357
+        "gl": 461,
+        "prc": 0.5720
       },
       "prestetih_glasov": null
     },
@@ -49,8 +49,8 @@
       "rez": null,
       "udel": {
         "upr": 813,
-        "gl": 195,
-        "prc": 0.2399
+        "gl": 520,
+        "prc": 0.6396
       },
       "prestetih_glasov": null
     },
@@ -61,8 +61,8 @@
       "rez": null,
       "udel": {
         "upr": 678,
-        "gl": 103,
-        "prc": 0.1519
+        "gl": 298,
+        "prc": 0.4395
       },
       "prestetih_glasov": null
     },
@@ -73,8 +73,8 @@
       "rez": null,
       "udel": {
         "upr": 871,
-        "gl": 218,
-        "prc": 0.2503
+        "gl": 517,
+        "prc": 0.5936
       },
       "prestetih_glasov": null
     },
@@ -85,8 +85,8 @@
       "rez": null,
       "udel": {
         "upr": 355,
-        "gl": 95,
-        "prc": 0.2676
+        "gl": 227,
+        "prc": 0.6394
       },
       "prestetih_glasov": null
     },
@@ -97,8 +97,8 @@
       "rez": null,
       "udel": {
         "upr": 941,
-        "gl": 241,
-        "prc": 0.2561
+        "gl": 533,
+        "prc": 0.5664
       },
       "prestetih_glasov": null
     },
@@ -109,8 +109,8 @@
       "rez": null,
       "udel": {
         "upr": 901,
-        "gl": 173,
-        "prc": 0.1920
+        "gl": 502,
+        "prc": 0.5572
       },
       "prestetih_glasov": null
     },
@@ -121,8 +121,8 @@
       "rez": null,
       "udel": {
         "upr": 907,
-        "gl": 194,
-        "prc": 0.2139
+        "gl": 460,
+        "prc": 0.5072
       },
       "prestetih_glasov": null
     },
@@ -133,8 +133,8 @@
       "rez": null,
       "udel": {
         "upr": 954,
-        "gl": 210,
-        "prc": 0.2201
+        "gl": 506,
+        "prc": 0.5304
       },
       "prestetih_glasov": null
     },
@@ -145,8 +145,8 @@
       "rez": null,
       "udel": {
         "upr": 770,
-        "gl": 130,
-        "prc": 0.1688
+        "gl": 372,
+        "prc": 0.4831
       },
       "prestetih_glasov": null
     },
@@ -157,8 +157,8 @@
       "rez": null,
       "udel": {
         "upr": 847,
-        "gl": 171,
-        "prc": 0.2019
+        "gl": 420,
+        "prc": 0.4959
       },
       "prestetih_glasov": null
     },
@@ -169,8 +169,8 @@
       "rez": null,
       "udel": {
         "upr": 986,
-        "gl": 230,
-        "prc": 0.2333
+        "gl": 551,
+        "prc": 0.5588
       },
       "prestetih_glasov": null
     },
@@ -181,8 +181,8 @@
       "rez": null,
       "udel": {
         "upr": 900,
-        "gl": 202,
-        "prc": 0.2244
+        "gl": 486,
+        "prc": 0.54
       },
       "prestetih_glasov": null
     },
@@ -193,8 +193,8 @@
       "rez": null,
       "udel": {
         "upr": 745,
-        "gl": 174,
-        "prc": 0.2336
+        "gl": 437,
+        "prc": 0.5866
       },
       "prestetih_glasov": null
     },
@@ -205,8 +205,8 @@
       "rez": null,
       "udel": {
         "upr": 775,
-        "gl": 186,
-        "prc": 0.24
+        "gl": 448,
+        "prc": 0.5781
       },
       "prestetih_glasov": null
     },
@@ -217,8 +217,8 @@
       "rez": null,
       "udel": {
         "upr": 895,
-        "gl": 193,
-        "prc": 0.2156
+        "gl": 503,
+        "prc": 0.5620
       },
       "prestetih_glasov": null
     },
@@ -229,8 +229,8 @@
       "rez": null,
       "udel": {
         "upr": 749,
-        "gl": 172,
-        "prc": 0.2296
+        "gl": 295,
+        "prc": 0.3939
       },
       "prestetih_glasov": null
     },
@@ -384,9 +384,9 @@
     }
   ],
   "nastavitve": {
-    "timestamp": "2026-03-22T12:02:42.306Z",
-    "datum": "2026-03-22T12:30:00Z",
-    "cas_udelezba": "11:00",
+    "timestamp": "2026-03-22T16:58:37Z",
+    "datum": "2026-03-22T17:30:00Z",
+    "cas_udelezba": "16:00",
     "has_udelezba": true,
     "has_rezultat": false,
     "is_final": false,

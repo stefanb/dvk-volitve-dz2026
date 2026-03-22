@@ -11,7 +11,11 @@
       "rpeid": "012",
       "naz": "Bivša KS, Ruperče 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 556,
+        "gl": 124,
+        "prc": 0.2230
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "020",
       "naz": "DK, Počehovska 19",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 194,
+        "prc": 0.2329
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "007",
       "naz": "GD Brezje, Dupleška 35",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 888,
+        "gl": 168,
+        "prc": 0.1892
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "009",
       "naz": "GD Dogoše, Dupleška 237",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 608,
+        "gl": 147,
+        "prc": 0.2418
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "016",
       "naz": "GD Zrkovci, Zrkovci 73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 543,
+        "gl": 139,
+        "prc": 0.2560
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "KD Korena, Zg. Korena 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1137,
+        "gl": 225,
+        "prc": 0.1979
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "004",
       "naz": "KD Vurberk, Vurberk 95",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 332,
+        "gl": 92,
+        "prc": 0.2771
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "010",
       "naz": "KS Malečnik, Malečnik 51",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 705,
+        "gl": 145,
+        "prc": 0.2057
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "008",
       "naz": "MČ Brezje, Na trati 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1010,
+        "gl": 240,
+        "prc": 0.2376
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "002",
       "naz": "Občina Duplek, Trg slovenske osamosvojitve 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1438,
+        "gl": 308,
+        "prc": 0.2142
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "003",
       "naz": "OŠ Dvorjane, Dvorjane 15",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 793,
+        "gl": 197,
+        "prc": 0.2484
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "011",
       "naz": "OŠ Malečnik, Malečnik 61",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1015,
+        "gl": 220,
+        "prc": 0.2167
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "013",
       "naz": "OŠ Tone Čufar, Zrkovska 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 897,
+        "gl": 179,
+        "prc": 0.1996
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "014",
       "naz": "OŠ Tone Čufar, Zrkovska 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 848,
+        "gl": 184,
+        "prc": 0.2170
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "015",
       "naz": "OŠ Tone Čufar, Zrkovska 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1045,
+        "gl": 230,
+        "prc": 0.2201
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "017",
       "naz": "OŠ Tone Čufar, Zrkovska 67",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 711,
+        "gl": 131,
+        "prc": 0.1842
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "001",
       "naz": "OŠ Žitečka vas, Zg. Duplek 98",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1471,
+        "gl": 330,
+        "prc": 0.2243
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "005",
       "naz": "Večnamenski prostor pri igrišču, Zimica 46c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 486,
+        "gl": 95,
+        "prc": 0.1955
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "018",
       "naz": "Waldorfski vrtec, Wilsonova 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 998,
+        "gl": 204,
+        "prc": 0.2044
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,34 +239,54 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Tamara",
-      "pri": "Dobnik",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
+      "ime": "Katja",
+      "pri": "Kokot",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
-      "ime": "Aleksandra Martina",
-      "pri": "Zupanič",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
+      "ime": "Neža",
+      "pri": "Kočnik",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "ime": "Vlado",
-      "pri": "Čuš",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
+      "ime": "Alojz",
+      "pri": "Gornik",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
+    },
+    {
+      "ime": "Franc",
+      "pri": "Kangler",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Darko",
+      "pri": "Rudaš",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
     },
     {
       "ime": "Alenka",
@@ -198,21 +294,15 @@
       "st": 107799,
       "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
       "knaz": "ZAUPANJE",
-      "hcol": null
+      "hcol": "89aedb"
     },
     {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Neža",
-      "pri": "Kočnik",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Aljoša",
+      "pri": "Rodinger",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
     },
     {
       "pfx": "dr.",
@@ -221,7 +311,7 @@
       "st": 107753,
       "naz": "SOCIALNI DEMOKRATI",
       "knaz": "SD",
-      "hcol": null
+      "hcol": "cb000d"
     },
     {
       "ime": "Manja",
@@ -229,23 +319,15 @@
       "st": 107756,
       "naz": "PIRATSKA STRANKA SLOVENIJE",
       "knaz": "PIRATI",
-      "hcol": null
+      "hcol": "000000"
     },
     {
-      "ime": "Darko",
-      "pri": "Rudaš",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Aljoša",
-      "pri": "Rodinger",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
+      "ime": "Tamara",
+      "pri": "Dobnik",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Tjaša",
@@ -253,29 +335,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Vlado",
+      "pri": "Čuš",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Katja",
-      "pri": "Kokot",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Alojz",
-      "pri": "Gornik",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Helena",
@@ -283,31 +363,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Franc",
-      "pri": "Kangler",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Aleksandra Martina",
+      "pri": "Zupanič",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Dobrin",
       "pri": "Tavčar",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

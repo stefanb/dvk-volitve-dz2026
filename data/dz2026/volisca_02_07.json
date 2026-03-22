@@ -11,7 +11,11 @@
       "rpeid": "012",
       "naz": "Balinarska dvorana na mlaki, Zabiče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 434,
+        "gl": 84,
+        "prc": 0.1935
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "011",
       "naz": "Bar Kočanija, Trpčane",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 109,
+        "gl": 25,
+        "prc": 0.2294
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "014",
       "naz": "Bivša gostilna, Novokračine 46",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 167,
+        "gl": 24,
+        "prc": 0.1437
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "036",
       "naz": "Bivša šolska stavba Ostrožno Brdo",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 75,
+        "gl": 25,
+        "prc": 0.3333
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "017",
       "naz": "Bivša šolska stavba, Veliko Brdo",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 67,
+        "gl": 14,
+        "prc": 0.2090
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "042",
       "naz": "Čelje - dvorana KS",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 45,
+        "gl": 17,
+        "prc": 0.3778
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "016",
       "naz": "Dolenje pri Jelšanah 52",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 151,
+        "gl": 35,
+        "prc": 0.2318
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "033",
       "naz": "Društveni prostori Tominje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 84,
+        "gl": 15,
+        "prc": 0.1786
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "035",
       "naz": "Florjanov hram Dobropolje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 372,
+        "gl": 67,
+        "prc": 0.1801
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "050",
       "naz": "Gasilski dom  Koritnice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 116,
+        "gl": 36,
+        "prc": 0.3103
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "015",
       "naz": "Gasilski dom Jelšane",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 251,
+        "gl": 24,
+        "prc": 0.0956
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "048",
       "naz": "Gasilski dom Knežak",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 365,
+        "gl": 59,
+        "prc": 0.1616
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "007",
       "naz": "Gasilski dom Vrbovo",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 244,
+        "gl": 40,
+        "prc": 0.1639
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "013",
       "naz": "Gostilna \"Sabrina\" Sušak",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 82,
+        "gl": 17,
+        "prc": 0.2073
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "010",
       "naz": "Gostilna Celin, Kuteževo",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 53,
+        "prc": 0.2819
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "021",
       "naz": "Grad Dol. Zemon - prostori KS",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 401,
+        "gl": 64,
+        "prc": 0.1596
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "009",
       "naz": "Jablanica 32a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 130,
+        "gl": 36,
+        "prc": 0.2769
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "037",
       "naz": "Janeževo Brdo 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 19,
+        "gl": 18,
+        "prc": 0.9474
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "004",
       "naz": "Jurčičeva 1, Ilirska Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 142,
+        "prc": 0.2208
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "038",
       "naz": "Kilovče 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 33,
+        "gl": 13,
+        "prc": 0.3939
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "041",
       "naz": "Ljudska šola Prem, Prem 83",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 123,
+        "gl": 33,
+        "prc": 0.2683
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "023",
       "naz": "Lovska koča na Pavlici",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 25,
+        "gl": 6,
+        "prc": 0.24
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "045",
       "naz": "Mereče 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 16,
+        "prc": 0.2807
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "019",
       "naz": "Na balincu, Koseze",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 288,
+        "gl": 54,
+        "prc": 0.1875
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "018",
       "naz": "Na balincu, M. Bukovica ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 27,
+        "prc": 0.2213
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "001",
       "naz": "OŠ Antona Žnideršiča Ilirska Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 579,
+        "gl": 75,
+        "prc": 0.1295
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "003",
       "naz": "OŠ Dragotina Ketteja, Ilirska Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 643,
+        "gl": 93,
+        "prc": 0.1446
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "025",
       "naz": "OŠ Podgrad",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 469,
+        "gl": 65,
+        "prc": 0.1386
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "030",
       "naz": "OŠ Pregarje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 306,
+        "gl": 55,
+        "prc": 0.1797
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "046",
       "naz": "Pomožni vaški prostor Podstenje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 57,
+        "gl": 11,
+        "prc": 0.1930
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "005",
       "naz": "Predavalnica-vhod bivši Transport, Šercerjeva 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 635,
+        "gl": 114,
+        "prc": 0.1795
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "039",
       "naz": "Prem 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 107,
+        "gl": 17,
+        "prc": 0.1589
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "002",
       "naz": "Prostori Društva Sožitje, Levstikova 5,  Il. Bist",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 594,
+        "gl": 90,
+        "prc": 0.1515
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "047",
       "naz": "Prostori KS Šembije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 230,
+        "gl": 56,
+        "prc": 0.2435
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "027",
       "naz": "Račice, Na plesišču",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 122,
+        "gl": 25,
+        "prc": 0.2049
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "040",
       "naz": "Ratečevo Brdo 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 30,
+        "gl": 15,
+        "prc": 0.5
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "043",
       "naz": "Smrje 56",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 92,
+        "gl": 23,
+        "prc": 0.25
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "024",
       "naz": "Starod 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 41,
+        "gl": 16,
+        "prc": 0.3902
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "034",
       "naz": "Stavba bivše šole Harije",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 237,
+        "gl": 57,
+        "prc": 0.2405
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "031",
       "naz": "Vaška brunarica Prelože",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 52,
+        "gl": 8,
+        "prc": 0.1538
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "049",
       "naz": "Vaški dom Bač",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 372,
+        "gl": 78,
+        "prc": 0.2097
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "022",
       "naz": "Vaški dom Gor. Zemon ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 85,
+        "gl": 9,
+        "prc": 0.1059
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "029",
       "naz": "Vaški dom Hrušica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 266,
+        "gl": 49,
+        "prc": 0.1842
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "006",
       "naz": "Vaški dom Jasen, Jasen 15c",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 240,
+        "gl": 30,
+        "prc": 0.125
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "026",
       "naz": "Vaški dom Podbeže ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 74,
+        "gl": 9,
+        "prc": 0.1216
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "028",
       "naz": "Vaški dom Sabonje, Sabonje 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 55,
+        "gl": 15,
+        "prc": 0.2727
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "044",
       "naz": "Vaški dom Topolc",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 275,
+        "gl": 56,
+        "prc": 0.2036
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "020",
       "naz": "Vaški dom V. Bukovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 196,
+        "gl": 27,
+        "prc": 0.1378
+      },
       "prestetih_glasov": null
     },
     {
@@ -395,7 +587,11 @@
       "rpeid": "032",
       "naz": "Vaški dom Zajelšje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 52,
+        "gl": 4,
+        "prc": 0.0769
+      },
       "prestetih_glasov": null
     },
     {
@@ -403,7 +599,11 @@
       "rpeid": "008",
       "naz": "Vaški dom, Vrbica 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 126,
+        "gl": 22,
+        "prc": 0.1746
+      },
       "prestetih_glasov": null
     },
     {
@@ -411,110 +611,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 578,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Andrej",
-      "pri": "Černigoj",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Andraž",
-      "pri": "Čeligoj",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Stojan",
-      "pri": "Lipolt",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Ariana",
-      "pri": "Tušar",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Denis",
-      "pri": "Kresevič",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Zoran",
-      "pri": "Grubišić",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Urša",
-      "pri": "Filiput",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Rok",
-      "pri": "Jenko",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Klara",
-      "pri": "Cah",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Boštjan",
-      "pri": "Kerma",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Bogdan",
       "pri": "Jenko",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Denis",
+      "pri": "Kresevič",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Ado",
@@ -522,15 +642,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "ime": "Dušan",
-      "pri": "Grbec",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "ime": "Adrijana",
@@ -538,23 +650,118 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Rok",
+      "pri": "Jenko",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Ariana",
+      "pri": "Tušar",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Klara",
+      "pri": "Cah",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Zoran",
+      "pri": "Grubišić",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Urša",
+      "pri": "Filiput",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Andrej",
+      "pri": "Černigoj",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Boštjan",
+      "pri": "Kerma",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Stojan",
+      "pri": "Lipolt",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Grbec",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Andraž",
+      "pri": "Čeligoj",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Peter",
       "pri": "Lipičar",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

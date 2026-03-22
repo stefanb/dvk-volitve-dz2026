@@ -11,7 +11,11 @@
       "rpeid": "029",
       "naz": "BTF, Rožna dolina c. VIII 34, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1300,
+        "gl": 275,
+        "prc": 0.2115
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "030",
       "naz": "BTF, Rožna dolina c. VIII 34, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1372,
+        "gl": 334,
+        "prc": 0.2434
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "016",
       "naz": "Dom Ivana Cankarja, Šentjošt 13, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 371,
+        "gl": 114,
+        "prc": 0.3073
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "022",
       "naz": "Dom krajanov, Črni vrh 37a, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 132,
+        "prc": 0.2722
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "024",
       "naz": "Fakulteta za elek., Tržaška c. 25, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 986,
+        "gl": 199,
+        "prc": 0.2018
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "025",
       "naz": "Fakulteta za elek., Tržaška c. 25, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1036,
+        "gl": 207,
+        "prc": 0.1998
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "027",
       "naz": "Obrtna zbornica Vič, Tržaška c. 207, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 946,
+        "gl": 193,
+        "prc": 0.2040
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "031",
       "naz": "Obrtna zbornica Vič, Tržaška c. 207, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1116,
+        "gl": 218,
+        "prc": 0.1953
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "001",
       "naz": "OŠ Brezovica pri Lj., Šolska ul. 15, Brezovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1269,
+        "gl": 295,
+        "prc": 0.2325
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "002",
       "naz": "OŠ Brezovica pri Lj., Šolska ul. 15, Brezovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1117,
+        "gl": 312,
+        "prc": 0.2793
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "003",
       "naz": "OŠ Dobrova, Cesta 7.maja 20, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1054,
+        "gl": 291,
+        "prc": 0.2761
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "014",
       "naz": "OŠ Horjul, Šolska ul. 44, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 702,
+        "gl": 160,
+        "prc": 0.2279
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "015",
       "naz": "OŠ Horjul, Šolska ul. 44, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 567,
+        "gl": 153,
+        "prc": 0.2698
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "019",
       "naz": "OŠ Polh. Gradec, Polhov Gradec 95, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1209,
+        "gl": 325,
+        "prc": 0.2688
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "PGD Butajnova-Planina, Butajnova 20g, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 264,
+        "gl": 70,
+        "prc": 0.2652
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "020",
       "naz": "PGD Dvor, Dvor pri Polh. Grad. 23, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 568,
+        "gl": 163,
+        "prc": 0.2870
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "007",
       "naz": "PGD Hruševo, Hruševo 2a, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 421,
+        "gl": 113,
+        "prc": 0.2684
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "028",
       "naz": "PGD Kozarje, Cesta na Ključ 56, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1255,
+        "gl": 332,
+        "prc": 0.2645
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "012",
       "naz": "PGD Podolnica, Podolnica 50, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 299,
+        "gl": 96,
+        "prc": 0.3211
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "009",
       "naz": "PGD Podsmreka, Podsmreka 58, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 164,
+        "prc": 0.3333
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "010",
       "naz": "PGD Vrzdenec, Vrzdenec 101, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 407,
+        "gl": 112,
+        "prc": 0.2752
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "013",
       "naz": "PGD Zaklanec, Zaklanec 2c, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 56,
+        "prc": 0.3613
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "021",
       "naz": "PGD Zalog, Setnik 5 b, Polhov Gradec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 140,
+        "gl": 49,
+        "prc": 0.35
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "011",
       "naz": "PGD Žažar, Žažar 24, Horjul",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 150,
+        "gl": 70,
+        "prc": 0.4667
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "004",
       "naz": "Poslovni prostor Koprivec, Brezje 10, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 356,
+        "gl": 103,
+        "prc": 0.2893
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "006",
       "naz": "Športni center Gabrje, Gabrje bš, Dobrova",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 902,
+        "gl": 250,
+        "prc": 0.2772
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "023",
       "naz": "Tehnološki park LJ, Tehnološki park 19 (stavba B)",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1010,
+        "gl": 243,
+        "prc": 0.2406
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "026",
       "naz": "Tehnološki park LJ, Tehnološki park 19 (stavba B)",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 918,
+        "gl": 260,
+        "prc": 0.2832
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,73 +347,46 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Mojca",
-      "pri": "Sojar",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Simon",
-      "pri": "Gregorn",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Lea",
-      "pri": "Herič",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Nada",
-      "pri": "Španić",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Urška",
+      "pri": "Blatnik",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
       "ime": "Blaž",
       "pri": "Debevec",
       "st": 107759,
       "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "pfx": "mag.",
-      "ime": "Petra",
-      "pri": "Culetto",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
+      "ime": "Amedeja",
+      "pri": "Rodman",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
     },
     {
-      "ime": "Urška",
-      "pri": "Orehek",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
+      "ime": "Aleš",
+      "pri": "Hojs",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
     },
     {
       "ime": "Miran",
@@ -309,7 +394,15 @@
       "st": 107760,
       "naz": "LEVICA IN VESNA",
       "knaz": "LEVICA IN VESNA",
-      "hcol": null
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Nada",
+      "pri": "Španić",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
     },
     {
       "pfx": "mag.",
@@ -318,7 +411,32 @@
       "st": 107761,
       "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
       "knaz": "PREROD",
-      "hcol": null
+      "hcol": "ed0990"
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Petra",
+      "pri": "Culetto",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Urška",
+      "pri": "Orehek",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Mojca",
+      "pri": "Sojar",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Blaž",
@@ -326,29 +444,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Lea",
+      "pri": "Herič",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Urška",
-      "pri": "Blatnik",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Amedeja",
-      "pri": "Rodman",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "pfx": "dr.",
@@ -357,31 +473,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Aleš",
-      "pri": "Hojs",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Simon",
+      "pri": "Gregorn",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Biserka",
       "pri": "Javoršek",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

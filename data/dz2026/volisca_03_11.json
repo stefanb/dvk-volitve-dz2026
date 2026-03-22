@@ -11,7 +11,11 @@
       "rpeid": "008",
       "naz": "DK Hraše, Hraše bš, Smlednik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 375,
+        "gl": 113,
+        "prc": 0.3013
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "025",
       "naz": "DK Vodice, Kopitarjev trg 1, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1376,
+        "gl": 360,
+        "prc": 0.2616
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "002",
       "naz": "DK, Zg. Pirniče 6, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 791,
+        "gl": 206,
+        "prc": 0.2604
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "003",
       "naz": "DK, Zg. Pirniče 6, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 790,
+        "gl": 204,
+        "prc": 0.2582
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "033",
       "naz": "Dom gasilcev in krajanov Tacen, Pločanska ul. 8",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1206,
+        "gl": 286,
+        "prc": 0.2371
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "035",
       "naz": "GD Medno, Medno 79, Lj. Šentvid",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 353,
+        "gl": 106,
+        "prc": 0.3003
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "034",
       "naz": "GD Stanežiče, Stanežiče 64, Lj. Šentvid",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 725,
+        "gl": 162,
+        "prc": 0.2234
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "001",
       "naz": "GD, Sp. Pirniče 7a, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1176,
+        "gl": 302,
+        "prc": 0.2568
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "007",
       "naz": "KD Smlednik, Smlednik 55, Smlednik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 96,
+        "prc": 0.2101
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "016",
       "naz": "KS Trnovec, Trnovec 25c, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 155,
+        "gl": 26,
+        "prc": 0.1677
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "022",
       "naz": "KS Vaše Goričane, Goričane 39,Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 871,
+        "gl": 205,
+        "prc": 0.2354
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "010",
       "naz": "Občina Medvode, C. komandanta Staneta 12, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 498,
+        "gl": 115,
+        "prc": 0.2309
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "Občina Medvode, C. komandanta Staneta 12, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 513,
+        "gl": 110,
+        "prc": 0.2144
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "012",
       "naz": "OŠ Medvode, Ostrovrharjeva ul. 4, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 677,
+        "gl": 176,
+        "prc": 0.2600
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "013",
       "naz": "OŠ Medvode, Ostrovrharjeva ul. 4,Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 800,
+        "gl": 209,
+        "prc": 0.2612
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "017",
       "naz": "OŠ Preska, Preška cesta 22, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 663,
+        "gl": 132,
+        "prc": 0.1991
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "018",
       "naz": "OŠ Preska, Preška cesta 22, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 746,
+        "gl": 170,
+        "prc": 0.2279
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "019",
       "naz": "OŠ Preska, Preška cesta 22, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 475,
+        "gl": 119,
+        "prc": 0.2505
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "020",
       "naz": "OŠ Preska, Preška cesta 22, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 642,
+        "gl": 178,
+        "prc": 0.2773
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "006",
       "naz": "OŠ S. Jenka, Smlednik 73, Smlednik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 415,
+        "gl": 112,
+        "prc": 0.2699
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "030",
       "naz": "OŠ Šmartno, C. v Gameljne 7, Lj. Šmartno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 164,
+        "prc": 0.2303
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "031",
       "naz": "OŠ Šmartno, C. v Gameljne 7, Lj. Šmartno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1035,
+        "gl": 250,
+        "prc": 0.2415
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "032",
       "naz": "OŠ Šmartno, C. v Gameljne 7, Lj. Šmartno",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1149,
+        "gl": 277,
+        "prc": 0.2411
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "028",
       "naz": "PGD Bukovica - Utik, Utik 45, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 733,
+        "gl": 206,
+        "prc": 0.2810
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "027",
       "naz": "PGD Polje, Polje pri Vodicah 5a, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 227,
+        "gl": 64,
+        "prc": 0.2819
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "024",
       "naz": "PGD Repnje, Repnje 30C, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 376,
+        "gl": 123,
+        "prc": 0.3271
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "029",
       "naz": "PGD Šinkov turn, Koseze 26, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 652,
+        "gl": 157,
+        "prc": 0.2408
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "026",
       "naz": "PGD Zapoge, Zapoge 2, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 286,
+        "gl": 86,
+        "prc": 0.3007
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "009",
       "naz": "PGD Zbilje, Zbilje 44, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 712,
+        "gl": 193,
+        "prc": 0.2711
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "021",
       "naz": "POŠ Sora, Sora 1b, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 809,
+        "gl": 200,
+        "prc": 0.2472
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "015",
       "naz": "POŠ Topol, Topol 17, Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 75,
+        "prc": 0.3233
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "005",
       "naz": "T.Z. Dragočajna - Moše, Dragočajna 14a, Smlednik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 485,
+        "gl": 116,
+        "prc": 0.2392
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "014",
       "naz": "Vrtec Medvode, Enota Senica, Zg. Senica 45,Medvode",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 671,
+        "gl": 192,
+        "prc": 0.2861
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "023",
       "naz": "ZDD Skaručna, Skaručna 42, Vodice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 376,
+        "gl": 112,
+        "prc": 0.2979
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,72 +419,46 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Marko",
-      "pri": "Kajzer",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Magda",
-      "pri": "Jezernik",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Dragan",
-      "pri": "Djukić",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Silva",
-      "pri": "Umek",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Gordana",
+      "pri": "Grobelnik",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
       "ime": "Natalija",
       "pri": "Veselič Martinjak",
       "st": 107759,
       "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "ime": "Luka",
-      "pri": "Rotar",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
+      "ime": "Stanislav",
+      "pri": "Žagar",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
     },
     {
-      "ime": "Liza Ana",
-      "pri": "Cukor",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
+      "ime": "Leon",
+      "pri": "Merjasec",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
     },
     {
       "ime": "Biserka",
@@ -356,7 +466,15 @@
       "st": 107760,
       "naz": "LEVICA IN VESNA",
       "knaz": "LEVICA IN VESNA",
-      "hcol": null
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Silva",
+      "pri": "Umek",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
     },
     {
       "ime": "Marike",
@@ -364,7 +482,31 @@
       "st": 107761,
       "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
       "knaz": "PREROD",
-      "hcol": null
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Luka",
+      "pri": "Rotar",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Liza Ana",
+      "pri": "Cukor",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Kajzer",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "pfx": "mag.",
@@ -373,29 +515,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Dragan",
+      "pri": "Djukić",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Gordana",
-      "pri": "Grobelnik",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Stanislav",
-      "pri": "Žagar",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Igor",
@@ -403,31 +543,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Leon",
-      "pri": "Merjasec",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Magda",
+      "pri": "Jezernik",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Marieta",
       "pri": "Stoimenova",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

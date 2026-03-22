@@ -1,58 +1,66 @@
 {
-  "datum": "2026-03-02T17:30:00Z",
+  "datum": "2026-03-22T12:30:00Z",
   "slovenija": [
     {
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null,
-      "st": 107749,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096",
+      "st": 107752,
       "gl": 0,
       "prc": null
     },
     {
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null,
-      "st": 107751,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48",
+      "st": 107759,
       "gl": 0,
       "prc": null
     },
     {
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null,
-      "st": 107758,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437",
+      "st": 107750,
+      "gl": 0,
+      "prc": null
+    },
+    {
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F",
+      "st": 107757,
+      "gl": 0,
+      "prc": null
+    },
+    {
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020",
+      "st": 107760,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
       "knaz": "ZAUPANJE",
-      "hcol": null,
+      "hcol": "89aedb",
       "st": 107799,
       "gl": 0,
       "prc": null
     },
     {
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null,
-      "st": 107803,
-      "gl": 0,
-      "prc": null
-    },
-    {
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null,
-      "st": 107759,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990",
+      "st": 107761,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "SOCIALNI DEMOKRATI",
       "knaz": "SD",
-      "hcol": null,
+      "hcol": "cb000d",
       "st": 107753,
       "gl": 0,
       "prc": null
@@ -60,79 +68,71 @@
     {
       "naz": "PIRATSKA STRANKA SLOVENIJE",
       "knaz": "PIRATI",
-      "hcol": null,
+      "hcol": "000000",
       "st": 107756,
       "gl": 0,
       "prc": null
     },
     {
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null,
-      "st": 107760,
-      "gl": 0,
-      "prc": null
-    },
-    {
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null,
-      "st": 107761,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7",
+      "st": 107749,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null,
+      "hcol": "0063a6",
       "st": 107754,
+      "gl": 0,
+      "prc": null
+    },
+    {
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948",
+      "st": 107758,
+      "gl": 0,
+      "prc": null
+    },
+    {
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463",
+      "st": 107803,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null,
+      "hcol": "ADA702",
       "st": 107801,
-      "gl": 0,
-      "prc": null
-    },
-    {
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null,
-      "st": 107752,
-      "gl": 0,
-      "prc": null
-    },
-    {
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null,
-      "st": 107750,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null,
+      "hcol": "01beac",
       "st": 107755,
       "gl": 0,
       "prc": null
     },
     {
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null,
-      "st": 107757,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d",
+      "st": 107751,
       "gl": 0,
       "prc": null
     },
     {
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null,
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A",
       "st": 107800,
       "gl": 0,
       "prc": null
@@ -147,17 +147,27 @@
           "naz": "VO 1001 - JESENICE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -167,12 +177,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -187,12 +192,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -202,17 +202,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -222,7 +212,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -242,17 +232,27 @@
           "naz": "VO 1002 - RADOVLJICA 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -262,12 +262,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -282,12 +277,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -297,17 +287,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -317,7 +297,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -337,17 +317,27 @@
           "naz": "VO 1003 - RADOVLJICA 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -357,12 +347,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -377,12 +362,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -392,17 +372,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -412,7 +382,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -432,17 +402,27 @@
           "naz": "VO 1004 - KRANJ 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -452,12 +432,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -472,12 +447,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -487,17 +457,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -507,7 +467,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -527,17 +487,27 @@
           "naz": "VO 1005 - KRANJ 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -547,12 +517,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -567,12 +532,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -582,17 +542,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -602,7 +552,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -622,17 +572,27 @@
           "naz": "VO 1006 - KRANJ 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -642,12 +602,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -662,12 +617,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -677,17 +627,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -697,7 +637,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -717,17 +657,27 @@
           "naz": "VO 1007 - TRŽIČ",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -737,12 +687,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -757,12 +702,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -772,17 +712,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -792,7 +722,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -812,17 +742,27 @@
           "naz": "VO 1008 - ŠKOFJA LOKA 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -832,12 +772,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -852,12 +787,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -867,17 +797,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -887,7 +807,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -907,17 +827,27 @@
           "naz": "VO 1009 - ŠKOFJA LOKA 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -927,12 +857,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -947,12 +872,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -962,17 +882,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -982,7 +892,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1002,17 +912,27 @@
           "naz": "VO 1010 - KAMNIK",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1022,12 +942,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1042,12 +957,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1057,17 +967,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1077,7 +977,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1097,17 +997,27 @@
           "naz": "VO 1011 - IDRIJA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1117,12 +1027,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1137,12 +1042,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1152,17 +1052,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1172,7 +1062,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1192,17 +1082,27 @@
       "naz": "VE 1000 - KRANJ",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -1212,12 +1112,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -1232,12 +1127,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -1247,17 +1137,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -1267,7 +1147,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -1289,17 +1169,27 @@
           "naz": "VO 2001 - TOLMIN",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1309,12 +1199,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1329,12 +1214,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1344,17 +1224,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1364,7 +1234,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1384,17 +1254,27 @@
           "naz": "VO 2002 - PIRAN",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1404,12 +1284,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1424,12 +1299,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1439,17 +1309,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1459,7 +1319,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1479,17 +1339,27 @@
           "naz": "VO 2003 - IZOLA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1499,12 +1369,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1519,12 +1384,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1534,17 +1394,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1554,7 +1404,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1574,17 +1424,27 @@
           "naz": "VO 2004 - KOPER 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1594,12 +1454,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1614,12 +1469,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1629,17 +1479,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1649,7 +1489,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1669,17 +1509,27 @@
           "naz": "VO 2005 - KOPER 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1689,12 +1539,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1709,12 +1554,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1724,17 +1564,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1744,7 +1574,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1764,17 +1594,27 @@
           "naz": "VO 2006 - SEŽANA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1784,12 +1624,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1804,12 +1639,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1819,17 +1649,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1839,7 +1659,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1859,17 +1679,27 @@
           "naz": "VO 2007 - ILIRSKA BISTRICA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1879,12 +1709,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1899,12 +1724,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -1914,17 +1734,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -1934,7 +1744,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -1954,17 +1764,27 @@
           "naz": "VO 2008 - POSTOJNA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -1974,12 +1794,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -1994,12 +1809,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2009,17 +1819,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2029,7 +1829,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2049,17 +1849,27 @@
           "naz": "VO 2009 - NOVA GORICA 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2069,12 +1879,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2089,12 +1894,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2104,17 +1904,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2124,7 +1914,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2144,17 +1934,27 @@
           "naz": "VO 2010 - NOVA GORICA 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2164,12 +1964,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2184,12 +1979,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2199,17 +1989,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2219,7 +1999,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2239,17 +2019,27 @@
           "naz": "VO 2011 - AJDOVŠČINA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2259,12 +2049,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2279,12 +2064,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2294,17 +2074,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2314,7 +2084,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2334,17 +2104,27 @@
       "naz": "VE 2000 - POSTOJNA",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -2354,12 +2134,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -2374,12 +2149,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -2389,17 +2159,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -2409,7 +2169,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -2431,17 +2191,27 @@
           "naz": "VO 3001 - LOGATEC",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2451,12 +2221,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2471,12 +2236,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2486,17 +2246,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2506,7 +2256,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2526,17 +2276,27 @@
           "naz": "VO 3002 - VRHNIKA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2546,12 +2306,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2566,12 +2321,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2581,17 +2331,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2601,7 +2341,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2621,17 +2361,27 @@
           "naz": "VO 3003 - LJUBLJANA VIČ-RUDNIK 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2641,12 +2391,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2661,12 +2406,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2676,17 +2416,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2696,7 +2426,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2716,17 +2446,27 @@
           "naz": "VO 3004 - LJUBLJANA VIČ-RUDNIK 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2736,12 +2476,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2756,12 +2491,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2771,17 +2501,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2791,7 +2511,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2811,17 +2531,27 @@
           "naz": "VO 3005 - LJUBLJANA VIČ-RUDNIK 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2831,12 +2561,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2851,12 +2576,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2866,17 +2586,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2886,7 +2596,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -2906,17 +2616,27 @@
           "naz": "VO 3006 - LJUBLJANA VIČ-RUDNIK 4",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -2926,12 +2646,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -2946,12 +2661,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -2961,17 +2671,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -2981,7 +2681,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3001,17 +2701,27 @@
           "naz": "VO 3007 - LJUBLJANA CENTER",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3021,12 +2731,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3041,12 +2746,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3056,17 +2756,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -3076,7 +2766,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3096,17 +2786,27 @@
           "naz": "VO 3008 - LJUBLJANA ŠIŠKA 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3116,12 +2816,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3136,12 +2831,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3151,17 +2841,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -3171,7 +2851,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3191,17 +2871,27 @@
           "naz": "VO 3009 - LJUBLJANA ŠIŠKA 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3211,12 +2901,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3231,12 +2916,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3246,17 +2926,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -3266,7 +2936,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3286,17 +2956,27 @@
           "naz": "VO 3010 - LJUBLJANA ŠIŠKA 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3306,12 +2986,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3326,12 +3001,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3341,17 +3011,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -3361,7 +3021,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3381,17 +3041,27 @@
           "naz": "VO 3011 - LJUBLJANA ŠIŠKA 4",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3401,12 +3071,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3421,12 +3086,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3436,17 +3096,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -3456,7 +3106,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3476,17 +3126,27 @@
       "naz": "VE 3000 - LJUBLJANA CENTER",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -3496,12 +3156,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -3516,12 +3171,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -3531,17 +3181,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -3551,7 +3191,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -3573,17 +3213,27 @@
           "naz": "VO 4001 - KOČEVJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3593,12 +3243,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3613,12 +3258,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3628,17 +3268,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -3648,7 +3283,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3668,17 +3303,27 @@
           "naz": "VO 4002 - RIBNICA-DOBREPOLJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3688,12 +3333,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3708,12 +3348,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3723,17 +3358,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -3743,7 +3373,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3763,17 +3393,27 @@
           "naz": "VO 4003 - GROSUPLJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3783,12 +3423,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3803,12 +3438,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3818,17 +3448,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -3838,7 +3463,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3858,17 +3483,27 @@
           "naz": "VO 4004 - IVANČNA GORICA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3878,12 +3513,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3898,12 +3528,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -3913,17 +3538,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -3933,7 +3553,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -3953,17 +3573,27 @@
           "naz": "VO 4005 - LJUBLJANA MOSTE-POLJE 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -3973,12 +3603,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -3993,12 +3618,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4008,17 +3628,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4028,7 +3643,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4048,17 +3663,27 @@
           "naz": "VO 4006 - LJUBLJANA MOSTE-POLJE 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4068,12 +3693,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4088,12 +3708,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4103,17 +3718,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4123,7 +3733,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4143,17 +3753,27 @@
           "naz": "VO 4007 - LJUBLJANA MOSTE-POLJE 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4163,12 +3783,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4183,12 +3798,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4198,17 +3808,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4218,7 +3823,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4238,17 +3843,27 @@
           "naz": "VO 4008 - LJUBLJANA BEŽIGRAD 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4258,12 +3873,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4278,12 +3888,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4293,17 +3898,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4313,7 +3913,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4333,17 +3933,27 @@
           "naz": "VO 4009 - LJUBLJANA BEŽIGRAD 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4353,12 +3963,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4373,12 +3978,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4388,17 +3988,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4408,7 +4003,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4428,17 +4023,27 @@
           "naz": "VO 4010 - DOMŽALE 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4448,12 +4053,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4468,12 +4068,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4483,17 +4078,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4503,7 +4093,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4523,17 +4113,27 @@
           "naz": "VO 4011 - DOMŽALE 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4543,12 +4143,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4563,12 +4158,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4578,17 +4168,12 @@
               "prc": null
             },
             {
-              "st": 107801,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107803,
               "gl": 0,
               "prc": null
             },
@@ -4598,7 +4183,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4618,17 +4203,27 @@
       "naz": "VE 4000 - LJUBLJANA BEŽIGRAD",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -4638,12 +4233,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -4658,12 +4248,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -4673,17 +4258,12 @@
           "prc": null
         },
         {
-          "st": 107801,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107803,
           "gl": 0,
           "prc": null
         },
@@ -4693,7 +4273,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -4715,17 +4295,27 @@
           "naz": "VO 5001 - ŠENTJUR",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4735,12 +4325,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4755,12 +4340,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4770,17 +4350,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -4790,7 +4365,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4810,17 +4385,27 @@
           "naz": "VO 5002 - CELJE 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4830,12 +4415,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4850,12 +4430,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4865,17 +4440,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -4885,7 +4455,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -4905,17 +4475,27 @@
           "naz": "VO 5003 - CELJE 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -4925,12 +4505,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -4945,12 +4520,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -4960,17 +4530,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -4980,7 +4545,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5000,17 +4565,27 @@
           "naz": "VO 5004 - ŽALEC 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5020,12 +4595,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5040,12 +4610,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5055,17 +4620,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5075,7 +4635,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5095,17 +4655,27 @@
           "naz": "VO 5005 - ŽALEC 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5115,12 +4685,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5135,12 +4700,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5150,17 +4710,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5170,7 +4725,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5190,17 +4745,27 @@
           "naz": "VO 5006 - MOZIRJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5210,12 +4775,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5230,12 +4790,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5245,17 +4800,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5265,7 +4815,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5285,17 +4835,27 @@
           "naz": "VO 5007 - VELENJE 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5305,12 +4865,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5325,12 +4880,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5340,17 +4890,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5360,7 +4905,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5380,17 +4925,27 @@
           "naz": "VO 5008 - VELENJE 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5400,12 +4955,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5420,12 +4970,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5435,17 +4980,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5455,7 +4995,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5475,17 +5015,27 @@
           "naz": "VO 5009 - SLOVENJ GRADEC",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5495,12 +5045,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5515,12 +5060,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5530,17 +5070,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5550,7 +5085,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5570,17 +5105,27 @@
           "naz": "VO 5010 - RAVNE NA KOROŠKEM",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5590,12 +5135,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5610,12 +5150,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5625,17 +5160,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5645,7 +5175,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5665,17 +5195,27 @@
           "naz": "VO 5011 - RADLJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5685,12 +5225,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5705,12 +5240,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5720,17 +5250,12 @@
               "prc": null
             },
             {
+              "st": 107758,
+              "gl": 0,
+              "prc": null
+            },
+            {
               "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
               "gl": 0,
               "prc": null
             },
@@ -5740,7 +5265,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5760,17 +5285,27 @@
       "naz": "VE 5000 - CELJE",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -5780,12 +5315,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -5800,12 +5330,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -5815,17 +5340,12 @@
           "prc": null
         },
         {
+          "st": 107758,
+          "gl": 0,
+          "prc": null
+        },
+        {
           "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
           "gl": 0,
           "prc": null
         },
@@ -5835,7 +5355,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -5857,17 +5377,27 @@
           "naz": "VO 6001 - ČRNOMELJ",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5877,12 +5407,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5897,12 +5422,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -5912,17 +5432,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -5932,7 +5442,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -5952,17 +5462,27 @@
           "naz": "VO 6002 - NOVO MESTO 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -5972,12 +5492,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -5992,12 +5507,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6007,17 +5517,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6027,7 +5527,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6047,17 +5547,27 @@
           "naz": "VO 6003 - NOVO MESTO 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6067,12 +5577,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6087,12 +5592,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6102,17 +5602,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6122,7 +5612,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6142,17 +5632,27 @@
           "naz": "VO 6004 - TREBNJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6162,12 +5662,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6182,12 +5677,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6197,17 +5687,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6217,7 +5697,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6237,17 +5717,27 @@
           "naz": "VO 6005 - BREŽICE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6257,12 +5747,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6277,12 +5762,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6292,17 +5772,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6312,7 +5782,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6332,17 +5802,27 @@
           "naz": "VO 6006 - KRŠKO",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6352,12 +5832,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6372,12 +5847,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6387,17 +5857,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6407,7 +5867,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6427,17 +5887,27 @@
           "naz": "VO 6007 - SEVNICA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6447,12 +5917,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6467,12 +5932,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6482,17 +5942,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6502,7 +5952,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6522,17 +5972,27 @@
           "naz": "VO 6008 - LAŠKO",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6542,12 +6002,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6562,12 +6017,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6577,17 +6027,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6597,7 +6037,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6617,17 +6057,27 @@
           "naz": "VO 6009 - LITIJA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6637,12 +6087,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6657,12 +6102,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6672,17 +6112,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6692,7 +6122,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6712,17 +6142,27 @@
           "naz": "VO 6010 - HRASTNIK-TRBOVLJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6732,12 +6172,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6752,12 +6187,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6767,17 +6197,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6787,7 +6207,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6807,17 +6227,27 @@
           "naz": "VO 6011 - ZAGORJE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -6827,12 +6257,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -6847,12 +6272,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -6862,17 +6282,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -6882,7 +6292,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -6902,17 +6312,27 @@
       "naz": "VE 6000 - NOVO MESTO",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -6922,12 +6342,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -6942,12 +6357,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -6957,17 +6367,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -6977,7 +6377,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -6999,17 +6399,27 @@
           "naz": "VO 7001 - ŠMARJE PRI JELŠAH",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7019,12 +6429,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7039,12 +6444,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7054,17 +6454,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7074,7 +6464,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7094,17 +6484,27 @@
           "naz": "VO 7002 - SLOVENSKA BISTRICA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7114,12 +6514,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7134,12 +6529,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7149,17 +6539,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7169,7 +6549,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7189,17 +6569,27 @@
           "naz": "VO 7003 - SLOVENSKE KONJICE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7209,12 +6599,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7229,12 +6614,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7244,17 +6624,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7264,7 +6634,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7284,17 +6654,27 @@
           "naz": "VO 7004 - RUŠE",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7304,12 +6684,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7324,12 +6699,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7339,17 +6709,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7359,7 +6719,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7379,17 +6739,27 @@
           "naz": "VO 7005 - MARIBOR 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7399,12 +6769,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7419,12 +6784,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7434,17 +6794,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7454,7 +6804,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7474,17 +6824,27 @@
           "naz": "VO 7006 - MARIBOR 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7494,12 +6854,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7514,12 +6869,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7529,17 +6879,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7549,7 +6889,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7569,17 +6909,27 @@
           "naz": "VO 7007 - MARIBOR 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7589,12 +6939,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7609,12 +6954,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7624,17 +6964,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7644,7 +6974,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7664,17 +6994,27 @@
           "naz": "VO 7008 - MARIBOR 4",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7684,12 +7024,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7704,12 +7039,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7719,17 +7049,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7739,7 +7059,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7759,17 +7079,27 @@
           "naz": "VO 7009 - MARIBOR 5",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7779,12 +7109,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7799,12 +7124,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7814,17 +7134,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7834,7 +7144,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7854,17 +7164,27 @@
           "naz": "VO 7010 - MARIBOR 6",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7874,12 +7194,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7894,12 +7209,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -7909,17 +7219,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -7929,7 +7229,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -7949,17 +7249,27 @@
           "naz": "VO 7011 - MARIBOR 7",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -7969,12 +7279,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -7989,12 +7294,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8004,17 +7304,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8024,7 +7314,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8044,17 +7334,27 @@
       "naz": "VE 7000 - MARIBOR",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -8064,12 +7364,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -8084,12 +7379,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -8099,17 +7389,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -8119,7 +7399,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },
@@ -8141,17 +7421,27 @@
           "naz": "VO 8001 - LENDAVA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8161,12 +7451,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8181,12 +7466,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8196,17 +7476,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8216,7 +7486,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8236,17 +7506,27 @@
           "naz": "VO 8002 - ORMOŽ",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8256,12 +7536,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8276,12 +7551,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8291,17 +7561,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8311,7 +7571,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8331,17 +7591,27 @@
           "naz": "VO 8003 - LJUTOMER",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8351,12 +7621,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8371,12 +7636,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8386,17 +7646,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8406,7 +7656,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8426,17 +7676,27 @@
           "naz": "VO 8004 - MURSKA SOBOTA 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8446,12 +7706,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8466,12 +7721,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8481,17 +7731,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8501,7 +7741,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8521,17 +7761,27 @@
           "naz": "VO 8005 - MURSKA SOBOTA 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8541,12 +7791,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8561,12 +7806,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8576,17 +7816,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8596,7 +7826,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8616,17 +7846,27 @@
           "naz": "VO 8006 - GORNJA RADGONA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8636,12 +7876,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8656,12 +7891,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8671,17 +7901,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8691,7 +7911,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8711,17 +7931,27 @@
           "naz": "VO 8007 - LENART",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8731,12 +7961,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8751,12 +7976,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8766,17 +7986,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8786,7 +7996,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8806,17 +8016,27 @@
           "naz": "VO 8008 - PESNICA",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8826,12 +8046,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8846,12 +8061,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8861,17 +8071,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8881,7 +8081,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8901,17 +8101,27 @@
           "naz": "VO 8009 - PTUJ 1",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -8921,12 +8131,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -8941,12 +8146,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -8956,17 +8156,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -8976,7 +8166,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -8996,17 +8186,27 @@
           "naz": "VO 8010 - PTUJ 2",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -9016,12 +8216,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -9036,12 +8231,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -9051,17 +8241,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -9071,7 +8251,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -9091,17 +8271,27 @@
           "naz": "VO 8011 - PTUJ 3",
           "rez": [
             {
-              "st": 107749,
+              "st": 107752,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107751,
+              "st": 107759,
               "gl": 0,
               "prc": null
             },
             {
-              "st": 107758,
+              "st": 107750,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107757,
+              "gl": 0,
+              "prc": null
+            },
+            {
+              "st": 107760,
               "gl": 0,
               "prc": null
             },
@@ -9111,12 +8301,7 @@
               "prc": null
             },
             {
-              "st": 107803,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107759,
+              "st": 107761,
               "gl": 0,
               "prc": null
             },
@@ -9131,12 +8316,7 @@
               "prc": null
             },
             {
-              "st": 107760,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107761,
+              "st": 107749,
               "gl": 0,
               "prc": null
             },
@@ -9146,17 +8326,7 @@
               "prc": null
             },
             {
-              "st": 107801,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107752,
-              "gl": 0,
-              "prc": null
-            },
-            {
-              "st": 107750,
+              "st": 107758,
               "gl": 0,
               "prc": null
             },
@@ -9166,7 +8336,7 @@
               "prc": null
             },
             {
-              "st": 107757,
+              "st": 107751,
               "gl": 0,
               "prc": null
             },
@@ -9186,17 +8356,27 @@
       "naz": "VE 8000 - PTUJ",
       "rez": [
         {
-          "st": 107749,
+          "st": 107752,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107751,
+          "st": 107759,
           "gl": 0,
           "prc": null
         },
         {
-          "st": 107758,
+          "st": 107750,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107757,
+          "gl": 0,
+          "prc": null
+        },
+        {
+          "st": 107760,
           "gl": 0,
           "prc": null
         },
@@ -9206,12 +8386,7 @@
           "prc": null
         },
         {
-          "st": 107803,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107759,
+          "st": 107761,
           "gl": 0,
           "prc": null
         },
@@ -9226,12 +8401,7 @@
           "prc": null
         },
         {
-          "st": 107760,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107761,
+          "st": 107749,
           "gl": 0,
           "prc": null
         },
@@ -9241,17 +8411,7 @@
           "prc": null
         },
         {
-          "st": 107801,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107752,
-          "gl": 0,
-          "prc": null
-        },
-        {
-          "st": 107750,
+          "st": 107758,
           "gl": 0,
           "prc": null
         },
@@ -9261,7 +8421,7 @@
           "prc": null
         },
         {
-          "st": 107757,
+          "st": 107751,
           "gl": 0,
           "prc": null
         },

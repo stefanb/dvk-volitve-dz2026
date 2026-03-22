@@ -11,7 +11,11 @@
       "rpeid": "004",
       "naz": "Bratov Smuk I,OŠ Matije Čopa, Ul. Tuga Vidmarja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1102,
+        "gl": 261,
+        "prc": 0.2368
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "005",
       "naz": "Bratov Smuk II,OŠ Matije Čopa,Ul. Tuga Vidmarja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1139,
+        "gl": 220,
+        "prc": 0.1932
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "016",
       "naz": "Britof, Gasilski dom, Britof 316",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1827,
+        "gl": 420,
+        "prc": 0.2299
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "001",
       "naz": "Center, Avla MO Kranj, Slovenski trg 1, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1768,
+        "gl": 247,
+        "prc": 0.1397
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "002",
       "naz": "Čirče, Dom KS, Smledniška cesta 136, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1254,
+        "gl": 305,
+        "prc": 0.2432
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "Klanec I, Dom krajanov, Jezerska cesta 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 976,
+        "gl": 240,
+        "prc": 0.2459
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "003",
       "naz": "Klanec II, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 756,
+        "gl": 145,
+        "prc": 0.1918
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "013",
       "naz": "Kokrica I, Kulturni dom Kokrica, C. na Brdo 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1318,
+        "gl": 291,
+        "prc": 0.2208
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "012",
       "naz": "Kokrica II, Kulturni dom Kokrica, C. na Brdo 30",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1598,
+        "gl": 390,
+        "prc": 0.2441
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "014",
       "naz": "Predoslje, Kulturni dom, Predoslje 34",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 943,
+        "gl": 259,
+        "prc": 0.2747
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "007",
       "naz": "Primskovo I, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1016,
+        "gl": 210,
+        "prc": 0.2067
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "008",
       "naz": "Primskovo II, Dom krajanov, Jezerska c. 41, Kranj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 942,
+        "gl": 220,
+        "prc": 0.2335
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "Vodovodni stolp I,OŠ S.Jenka,Ul. XXXI.divizije 7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1296,
+        "gl": 251,
+        "prc": 0.1937
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "010",
       "naz": "Vodovodni stolp II,OŠ S.Jenka,Ul.XXXI.divizije 7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1359,
+        "gl": 314,
+        "prc": 0.2311
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "009",
       "naz": "Vodovodni stolp III,OŠ S.Jenka,Ul.XXXI.divizije7a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1373,
+        "gl": 242,
+        "prc": 0.1763
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,72 +191,47 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Nejc",
-      "pri": "Jagodic",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Matjaž",
-      "pri": "Perše",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Beno",
-      "pri": "Lončarič",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Domen",
-      "pri": "Hvala",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
+      "pfx": "dr.",
+      "ime": "Neven",
+      "pri": "Polajnar",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
       "ime": "Edi Ani",
       "pri": "Klobučar",
       "st": 107759,
       "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "ime": "Manja",
-      "pri": "Zorko",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
+      "ime": "Rajko",
+      "pri": "Perčič",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
     },
     {
-      "ime": "Matej",
-      "pri": "Ahačič",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
+      "ime": "Monika",
+      "pri": "Gregorčič",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
     },
     {
       "ime": "Jaka",
@@ -204,7 +239,15 @@
       "st": 107760,
       "naz": "LEVICA IN VESNA",
       "knaz": "LEVICA IN VESNA",
-      "hcol": null
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Domen",
+      "pri": "Hvala",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
     },
     {
       "pfx": "dr.",
@@ -213,7 +256,31 @@
       "st": 107761,
       "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
       "knaz": "PREROD",
-      "hcol": null
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Manja",
+      "pri": "Zorko",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Matej",
+      "pri": "Ahačič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Nejc",
+      "pri": "Jagodic",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Sandra",
@@ -221,30 +288,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Beno",
+      "pri": "Lončarič",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "pfx": "dr.",
-      "ime": "Neven",
-      "pri": "Polajnar",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Rajko",
-      "pri": "Perčič",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Matic",
@@ -252,31 +316,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Monika",
-      "pri": "Gregorčič",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Matjaž",
+      "pri": "Perše",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Klemen",
       "pri": "Piber",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

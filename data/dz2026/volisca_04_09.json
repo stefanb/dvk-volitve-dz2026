@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Društvo distrofikov Slovenije, Linhartova c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 779,
+        "gl": 170,
+        "prc": 0.2182
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "005",
       "naz": "Knjižnica Bežigrad, Einspielerjeva ulica 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 756,
+        "gl": 193,
+        "prc": 0.2553
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "024",
       "naz": "Knjižnica Bežigrad, Einspielerjeva ulica 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 651,
+        "gl": 125,
+        "prc": 0.1920
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "022",
       "naz": "Objekt - okrepčevalnica, Šifrerjeva 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1015,
+        "gl": 170,
+        "prc": 0.1675
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "023",
       "naz": "Objekt - okrepčevalnica, Šifrerjeva 3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 778,
+        "gl": 143,
+        "prc": 0.1838
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "001",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 943,
+        "gl": 188,
+        "prc": 0.1994
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "002",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 978,
+        "gl": 193,
+        "prc": 0.1973
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "003",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 136,
+        "prc": 0.1759
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "004",
       "naz": "OŠ Bežigrad, Črtomirova ul. 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 661,
+        "gl": 132,
+        "prc": 0.1997
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "019",
       "naz": "OŠ Milana Šuštaršiča, Štembalova ul. 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 659,
+        "gl": 123,
+        "prc": 0.1866
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "020",
       "naz": "OŠ Milana Šuštaršiča, Štembalova ul. 2a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 695,
+        "gl": 133,
+        "prc": 0.1914
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "008",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 943,
+        "gl": 215,
+        "prc": 0.2280
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "009",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 904,
+        "gl": 167,
+        "prc": 0.1847
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "015",
       "naz": "OŠ Mirana Jarca, Ipavčeva ul. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 684,
+        "gl": 159,
+        "prc": 0.2325
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "016",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 721,
+        "gl": 140,
+        "prc": 0.1942
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "017",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 946,
+        "gl": 199,
+        "prc": 0.2104
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "018",
       "naz": "OŠ Savsko naselje, Matjaževa ul. 4",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1004,
+        "gl": 194,
+        "prc": 0.1932
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "010",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 838,
+        "gl": 189,
+        "prc": 0.2255
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "012",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 556,
+        "gl": 103,
+        "prc": 0.1853
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "014",
       "naz": "OŠ Vita Kraigherja, Trg 9. maja 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 833,
+        "gl": 175,
+        "prc": 0.2101
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "011",
       "naz": "Prostori MOL, Dunajska c. 101",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 610,
+        "gl": 121,
+        "prc": 0.1984
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "013",
       "naz": "Prostori MOL, Dunajska c. 101",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 892,
+        "gl": 200,
+        "prc": 0.2242
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "021",
       "naz": "Prostori MOL, Vojkova c. 73",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 103,
+        "prc": 0.2201
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "006",
       "naz": "Zavod RS za zaposlovanje, Parmova 32",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 816,
+        "gl": 183,
+        "prc": 0.2243
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,75 +299,46 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Karolina",
-      "pri": "Korenčan",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Erika",
-      "pri": "Brumen",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Evita",
-      "pri": "Leskovšek",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Ibrahim",
-      "pri": "Nouhoum",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "ime": "Oja",
-      "pri": "Banič",
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Peter",
+      "pri": "Kobentar",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
       "ime": "Arne Jakob",
       "pri": "Zakrajšek",
       "st": 107759,
       "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "pfx": "dr.",
-      "ime": "Jernej",
-      "pri": "Štromajer",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
+      "ime": "Zvonimir",
+      "pri": "Klemenc",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
     },
     {
-      "ime": "Matic Leon",
-      "pri": "Božič",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
+      "ime": "Simona",
+      "pri": "Kaučič",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
     },
     {
       "ime": "Asta",
@@ -279,7 +346,15 @@
       "st": 107760,
       "naz": "LEVICA IN VESNA",
       "knaz": "LEVICA IN VESNA",
-      "hcol": null
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Ibrahim",
+      "pri": "Nouhoum",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
     },
     {
       "pfx": "dr.",
@@ -288,7 +363,32 @@
       "st": 107761,
       "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
       "knaz": "PREROD",
-      "hcol": null
+      "hcol": "ed0990"
+    },
+    {
+      "pfx": "dr.",
+      "ime": "Jernej",
+      "pri": "Štromajer",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Matic Leon",
+      "pri": "Božič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Karolina",
+      "pri": "Korenčan",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Tereza",
@@ -296,29 +396,29 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Evita",
+      "pri": "Leskovšek",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "ime": "Oja",
+      "pri": "Banič",
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Peter",
-      "pri": "Kobentar",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Zvonimir",
-      "pri": "Klemenc",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Božo",
@@ -326,31 +426,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Simona",
-      "pri": "Kaučič",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Erika",
+      "pri": "Brumen",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Vera",
       "pri": "Kanalec",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

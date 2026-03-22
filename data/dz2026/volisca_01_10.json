@@ -11,7 +11,11 @@
       "rpeid": "027",
       "naz": "DK A. Breznika, Križ 17B, Komenda",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 451,
+        "gl": 115,
+        "prc": 0.2550
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "006",
       "naz": "GD Srednja vas, Srednja vas 23, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 553,
+        "gl": 116,
+        "prc": 0.2098
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "023",
       "naz": "GSŠRM Kamnik, Novi trg 41A, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 917,
+        "gl": 185,
+        "prc": 0.2017
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "003",
       "naz": "KD Laze, Laze 4A, Laze v Tuhinju",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1024,
+        "gl": 203,
+        "prc": 0.1982
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "025",
       "naz": "KD Podgorje, Podgorje 55A, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 792,
+        "gl": 171,
+        "prc": 0.2159
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "020",
       "naz": "KD Šmarca, Trg padlih borcev 2, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1123,
+        "gl": 285,
+        "prc": 0.2538
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "004",
       "naz": "KD Šmartno, Šmartno v Tuhinju 27, Laze v Tuhinju",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 607,
+        "gl": 171,
+        "prc": 0.2817
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "002",
       "naz": "KD Špitalič, Špitalič 32A, Motnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 219,
+        "gl": 68,
+        "prc": 0.3105
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "021",
       "naz": "KD Volčji Potok, Volčji Potok 43H, Radomlje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 405,
+        "gl": 121,
+        "prc": 0.2988
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "001",
       "naz": "Krajevni dom Motnik, Motnik 33, Motnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 246,
+        "gl": 74,
+        "prc": 0.3008
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "011",
       "naz": "KS Godič, Godič 73A, Stahovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 682,
+        "gl": 198,
+        "prc": 0.2903
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "005",
       "naz": "KS Pšajnovica, Mali Rakitovec 15, Blagovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 170,
+        "gl": 48,
+        "prc": 0.2824
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "022",
       "naz": "Občina Kamnik, Glavni trg 24, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 2193,
+        "gl": 390,
+        "prc": 0.1778
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "008",
       "naz": "OŠ F. Albrehta, PŠ Nevlje, Nevlje 18, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1440,
+        "gl": 317,
+        "prc": 0.2201
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "017",
       "naz": "OŠ F. Albrehta, PŠ Tunjice, Tunjice 22, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 599,
+        "gl": 125,
+        "prc": 0.2087
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "026",
       "naz": "OŠ F. Albrehta, Šolska ul. 1, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1597,
+        "gl": 307,
+        "prc": 0.1922
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "010",
       "naz": "OŠ F. Albrehta,PŠ Vranja Peč,Vranja Peč 3, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 269,
+        "gl": 63,
+        "prc": 0.2342
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "029",
       "naz": "OŠ Komenda Moste, Komenda, Glavarjeva 37, Komenda",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1269,
+        "gl": 335,
+        "prc": 0.2640
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "030",
       "naz": "OŠ Komenda Moste, Komenda, Glavarjeva 37, Komenda",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1310,
+        "gl": 313,
+        "prc": 0.2389
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "028",
       "naz": "OŠ Komenda Moste, Moste, Moste 40, Komenda",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1814,
+        "gl": 500,
+        "prc": 0.2756
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "018",
       "naz": "OŠ M. Vere, Ljubljanska c. 16A, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1539,
+        "gl": 312,
+        "prc": 0.2027
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "019",
       "naz": "OŠ M. Vere, Ljubljanska c. 16A, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1625,
+        "gl": 350,
+        "prc": 0.2154
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "013",
       "naz": "OŠ Stranje, PŠ Gozd, Krivčevo 2, Stahovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 618,
+        "gl": 153,
+        "prc": 0.2476
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "015",
       "naz": "OŠ Stranje, Zg. Stranje 22, Stahovica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1613,
+        "gl": 360,
+        "prc": 0.2232
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "007",
       "naz": "PŠ Sela pri Kamniku,OŠ Šmartno, Šmartno 27A, Laze",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 523,
+        "gl": 118,
+        "prc": 0.2256
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "016",
       "naz": "ŠKD Mekinje, Cankarjeva c. 37, Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1360,
+        "gl": 276,
+        "prc": 0.2029
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "024",
       "naz": "Vrtec A. Medveda,Sneguljčica,Kovinarska 11,Kamnik",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 2014,
+        "gl": 335,
+        "prc": 0.1663
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,110 +335,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Andrej",
-      "pri": "Kočar",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Matjaž",
-      "pri": "Perše",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Blanka",
-      "pri": "Trampuš",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Blaž",
-      "pri": "Pirnat",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Tomislav",
-      "pri": "Zdravković",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Maja",
-      "pri": "Aleksovska-Lesjak",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Brina Katarina",
-      "pri": "Šoštarič",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Ivan",
-      "pri": "Mitrevski",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Adelisa",
-      "pri": "Rujović Osmanović",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Boštjan",
-      "pri": "Poklukar",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Klemen",
       "pri": "Preložnik",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Tomislav",
+      "pri": "Zdravković",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Romana",
@@ -338,15 +366,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "ime": "Iztok",
-      "pri": "Artič",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "ime": "Nežka",
@@ -354,23 +374,118 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Ivan",
+      "pri": "Mitrevski",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Blaž",
+      "pri": "Pirnat",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Adelisa",
+      "pri": "Rujović Osmanović",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Maja",
+      "pri": "Aleksovska-Lesjak",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Brina Katarina",
+      "pri": "Šoštarič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Andrej",
+      "pri": "Kočar",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Boštjan",
+      "pri": "Poklukar",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Blanka",
+      "pri": "Trampuš",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Iztok",
+      "pri": "Artič",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Matjaž",
+      "pri": "Perše",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Janez",
       "pri": "Korošec",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

@@ -11,7 +11,11 @@
       "rpeid": "001",
       "naz": "DD Grosuplje I., Taborska c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1145,
+        "gl": 261,
+        "prc": 0.2279
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "002",
       "naz": "DD Grosuplje II., Taborska c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1071,
+        "gl": 184,
+        "prc": 0.1718
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "009",
       "naz": "DD Račna, Velika Račna 24b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 159,
+        "prc": 0.2598
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "005",
       "naz": "DO Grosuplje, Ob Grosupeljščici 1b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1297,
+        "gl": 360,
+        "prc": 0.2776
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "015",
       "naz": "GD Luče, Luče 22a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 249,
+        "gl": 75,
+        "prc": 0.3012
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "GD Mala Ilova Gora, Mala Ilova Gora 21",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 161,
+        "gl": 41,
+        "prc": 0.2547
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "008",
       "naz": "GD Polica, Polica 41",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 745,
+        "gl": 171,
+        "prc": 0.2295
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "012",
       "naz": "GD Ponova vas, Ponova vas 27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 513,
+        "gl": 125,
+        "prc": 0.2437
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "007",
       "naz": "GD Veliko Mlačevo, Veliko Mlačevo 6a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 850,
+        "gl": 205,
+        "prc": 0.2412
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "011",
       "naz": "KS Škocjan, Škocjan 20",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 382,
+        "gl": 92,
+        "prc": 0.2408
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "004",
       "naz": "OŠ Brinje, Ljubljanska c. 40a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1169,
+        "gl": 246,
+        "prc": 0.2104
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "003",
       "naz": "OŠ Louisa Adamiča I, Tovarniška c. 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 835,
+        "gl": 224,
+        "prc": 0.2683
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "061",
       "naz": "OŠ Louisa Adamiča II, Tovarniška c. 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 957,
+        "gl": 223,
+        "prc": 0.2330
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "062",
       "naz": "OŠ Polica, Polica 200",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 734,
+        "gl": 190,
+        "prc": 0.2589
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "016",
       "naz": "OŠ Šmarje-Sap I., Ljubljanska c. 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1005,
+        "gl": 262,
+        "prc": 0.2607
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "017",
       "naz": "OŠ Šmarje-Sap II., Ljubljanska c. 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 688,
+        "gl": 185,
+        "prc": 0.2689
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "018",
       "naz": "OŠ Šmarje-Sap III., Ljubljanska c. 49",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 941,
+        "gl": 223,
+        "prc": 0.2370
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "013",
       "naz": "OŠ Št. Jurij, Št. Jurij 14",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1055,
+        "gl": 241,
+        "prc": 0.2284
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "014",
       "naz": "Podružnična šola Žalna, Žalna 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 623,
+        "gl": 165,
+        "prc": 0.2648
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "010",
       "naz": "ZDD SPODNJA SLIVNICA, Spodnja Slivnica 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 434,
+        "gl": 142,
+        "prc": 0.3272
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,112 +251,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Matjaž",
-      "pri": "Trontelj",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Alen",
-      "pri": "Behek",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Primož",
-      "pri": "Ulaga",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Žak",
-      "pri": "Likar",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "ime": "Slavko",
-      "pri": "Lovšin",
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Marina",
-      "pri": "Trofenik",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Žan",
-      "pri": "Zupančič",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Primož",
-      "pri": "Ledinek",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Gregor",
-      "pri": "Ilaš",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Andreja",
-      "pri": "Novak",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Ema",
-      "pri": "Perme",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Milan",
       "pri": "Nastić",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Marina",
+      "pri": "Trofenik",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Jasmina",
@@ -284,7 +282,93 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "020437"
+    },
+    {
+      "ime": "Janez (Ivan)",
+      "pri": "Janša",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Gregor",
+      "pri": "Ilaš",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Žak",
+      "pri": "Likar",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Andreja",
+      "pri": "Novak",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Žan",
+      "pri": "Zupančič",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Primož",
+      "pri": "Ledinek",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Matjaž",
+      "pri": "Trontelj",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Ema",
+      "pri": "Perme",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Primož",
+      "pri": "Ulaga",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "ime": "Slavko",
+      "pri": "Lovšin",
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
     },
     {
       "ime": "Miha",
@@ -292,31 +376,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Ivan",
-      "pri": "Janša",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Alen",
+      "pri": "Behek",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Nevenka",
       "pri": "Jeras",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

@@ -11,7 +11,11 @@
       "rpeid": "007",
       "naz": "Dom občanov SPODNJA ŠČAVNICA, Sp.Ščavnica 19b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 764,
+        "gl": 155,
+        "prc": 0.2029
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "030",
       "naz": "Gasilski dom BOLEHNEČICI, Bolehnečici 4a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 34,
+        "prc": 0.2166
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "008",
       "naz": "Gasilski dom ČREŠNJEVCI, Črešnjevci 116",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 868,
+        "gl": 197,
+        "prc": 0.2270
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "014",
       "naz": "Gasilski dom GORNJA RADGONA, Gasilska c.2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 602,
+        "gl": 125,
+        "prc": 0.2076
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "022",
       "naz": "Gasilski dom HRAŠENSKI VRH, Hrašenski Vrh 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 355,
+        "gl": 69,
+        "prc": 0.1944
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "017",
       "naz": "Gasilski dom IVANJŠEVCI OB ŠČ. Ivanjševci ob Šč.9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 247,
+        "gl": 62,
+        "prc": 0.2510
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "005",
       "naz": "Gasilski dom LEŠANE, Lešane 32a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 299,
+        "gl": 62,
+        "prc": 0.2074
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "006",
       "naz": "Gasilski dom LUTVERCI, Lutverci 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 388,
+        "gl": 90,
+        "prc": 0.2320
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "016",
       "naz": "Gasilski dom NEGOVA, Negova 9",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 693,
+        "gl": 176,
+        "prc": 0.2540
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "024",
       "naz": "Gasilski dom OKOSLAVCI, Okoslavci 63a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 221,
+        "gl": 47,
+        "prc": 0.2127
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "001",
       "naz": "Gasilski dom PODGORJE, Podgorje 9b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 414,
+        "gl": 110,
+        "prc": 0.2657
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "026",
       "naz": "Gasilski dom ROŽIČKI VRH, Rožički Vrh 54",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 301,
+        "gl": 61,
+        "prc": 0.2027
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "027",
       "naz": "Gasilski dom SLAPTINCI, Slaptinci 15a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 248,
+        "gl": 48,
+        "prc": 0.1935
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "029",
       "naz": "Gasilski dom SOVJAK, Sovjak 33a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 481,
+        "gl": 104,
+        "prc": 0.2162
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "015",
       "naz": "Gasilski dom SPODNJI IVANJCI, Spodnji Ivanjci 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 519,
+        "gl": 100,
+        "prc": 0.1927
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "028",
       "naz": "Gasilski dom STARA GORA, Stara Gora 12b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 307,
+        "gl": 48,
+        "prc": 0.1564
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "009",
       "naz": "Gasilski dom ZBIGOVCI, Zbigovci 26",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 317,
+        "gl": 94,
+        "prc": 0.2965
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "021",
       "naz": "Gasilsko vaški dom HRASTJE MOTA, Hrastje Mota 36a",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 389,
+        "gl": 89,
+        "prc": 0.2288
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "004",
       "naz": "Kulturni dom APAČE, Apače 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 696,
+        "gl": 162,
+        "prc": 0.2328
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "013",
       "naz": "Kulturni dom GORNJA RADGONA, Partizanska c.11",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 750,
+        "gl": 103,
+        "prc": 0.1373
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "020",
       "naz": "OBČINA RADENCI, Radgonska cesta 9g",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 710,
+        "gl": 156,
+        "prc": 0.2197
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "010",
       "naz": "Osnovna šola G. RADGONA, Prežihova ul. 1 - VHOD1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 554,
+        "gl": 129,
+        "prc": 0.2329
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "011",
       "naz": "Osnovna šola G. RADGONA, Prežihova ul. 1 - VHOD3",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 847,
+        "gl": 215,
+        "prc": 0.2538
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "023",
       "naz": "Osnovna šola KAPELA, Kapelski Vrh 95",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 675,
+        "gl": 148,
+        "prc": 0.2193
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "019",
       "naz": "Osnovna šola RADENCI, Radgonska c. 10",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 992,
+        "gl": 255,
+        "prc": 0.2571
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "002",
       "naz": "Osnovna šola STOGOVCI, Stogovci 33",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 481,
+        "gl": 107,
+        "prc": 0.2225
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "012",
       "naz": "Pomurski sejem GORNJA RADGONA, Cesta na stadion 2",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 726,
+        "gl": 120,
+        "prc": 0.1653
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "025",
       "naz": "Sv. JURIJ OB ŠČ., Bratka Krefta 14 - Stara občina",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 852,
+        "gl": 177,
+        "prc": 0.2077
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "003",
       "naz": "Vaško gasilski dom ŽEPOVCI, Žepovci 82",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 629,
+        "gl": 152,
+        "prc": 0.2417
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "018",
       "naz": "Vrtec RADENCI, Titova c. 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 878,
+        "gl": 223,
+        "prc": 0.2540
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,72 +371,46 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "ime": "Alenka",
-      "pri": "Moravec",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Mitja Vladimir",
-      "pri": "Bigec",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Silva",
-      "pri": "Vračko",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Jerneja",
-      "pri": "Likar Cuderman",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Boris",
+      "pri": "Mijič",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
       "ime": "Jagoda",
       "pri": "Koroševič Koser",
       "st": 107759,
       "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "ime": "Boris",
-      "pri": "Edšidt",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
+      "ime": "Dušan",
+      "pri": "Vereš",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
     },
     {
-      "ime": "Sofija Maša",
-      "pri": "Božič",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
+      "ime": "Anja",
+      "pri": "Rakuša Brus",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
     },
     {
       "ime": "Alenka",
@@ -324,7 +418,15 @@
       "st": 107760,
       "naz": "LEVICA IN VESNA",
       "knaz": "LEVICA IN VESNA",
-      "hcol": null
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Jerneja",
+      "pri": "Likar Cuderman",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
     },
     {
       "pfx": "Mag.",
@@ -333,7 +435,31 @@
       "st": 107761,
       "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
       "knaz": "PREROD",
-      "hcol": null
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Boris",
+      "pri": "Edšidt",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Sofija Maša",
+      "pri": "Božič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Alenka",
+      "pri": "Moravec",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Kristjan",
@@ -341,29 +467,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Silva",
+      "pri": "Vračko",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Boris",
-      "pri": "Mijič",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Dušan",
-      "pri": "Vereš",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Simona",
@@ -371,31 +495,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Anja",
-      "pri": "Rakuša Brus",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Mitja Vladimir",
+      "pri": "Bigec",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Vito",
       "pri": "Hribar",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

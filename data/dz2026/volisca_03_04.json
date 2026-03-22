@@ -11,7 +11,11 @@
       "rpeid": "014",
       "naz": "GD Orle, Orle 39, Škofljica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 189,
+        "gl": 53,
+        "prc": 0.2804
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "010",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 924,
+        "gl": 191,
+        "prc": 0.2067
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "012",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 744,
+        "gl": 130,
+        "prc": 0.1747
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "016",
       "naz": "OŠ Livada, Ul. Dušana Kraigherja 2, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1006,
+        "gl": 123,
+        "prc": 0.1223
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "005",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1177,
+        "gl": 262,
+        "prc": 0.2226
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "006",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1116,
+        "gl": 284,
+        "prc": 0.2545
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "008",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1279,
+        "gl": 265,
+        "prc": 0.2072
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "009",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 999,
+        "gl": 210,
+        "prc": 0.2102
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "011",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1282,
+        "gl": 346,
+        "prc": 0.2699
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "017",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 504,
+        "gl": 121,
+        "prc": 0.2401
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "018",
       "naz": "OŠ Oskarja Kovačiča, Ob dolenjski železnici 48",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 866,
+        "gl": 209,
+        "prc": 0.2413
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "001",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 920,
+        "gl": 254,
+        "prc": 0.2761
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "002",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 859,
+        "gl": 200,
+        "prc": 0.2328
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "003",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 820,
+        "gl": 178,
+        "prc": 0.2171
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "004",
       "naz": "OŠ Trnovo, Karunova ul. 14a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 868,
+        "gl": 164,
+        "prc": 0.1889
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "013",
       "naz": "Podružnična šola Lavrica, Kamnikarjeva ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1238,
+        "gl": 305,
+        "prc": 0.2464
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "015",
       "naz": "Podružnična šola Lavrica, Kamnikarjeva ul. 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1174,
+        "gl": 300,
+        "prc": 0.2555
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,111 +215,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "David",
-      "pri": "Tomažin",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Tatjana",
-      "pri": "Grbić Garvanović",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Neža",
-      "pri": "Hlebanja",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Nina",
-      "pri": "Pranjić",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Martin",
-      "pri": "Krauser",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Jonas",
-      "pri": "Žnidaršič",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Igor",
-      "pri": "Brlek",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Alja",
-      "pri": "Miklavčič",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "pfx": "mag.",
-      "ime": "Barbara",
-      "pri": "Gašperlin",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Darko",
-      "pri": "Nikolovski",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Dejana",
       "pri": "Cigulajkić",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Martin",
+      "pri": "Krauser",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Tanja Anastasia",
@@ -259,15 +246,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "ime": "Marko",
-      "pri": "Kušar",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "pfx": "mag.",
@@ -276,23 +255,119 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Alja",
+      "pri": "Miklavčič",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Nina",
+      "pri": "Pranjić",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Barbara",
+      "pri": "Gašperlin",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Jonas",
+      "pri": "Žnidaršič",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Igor",
+      "pri": "Brlek",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "David",
+      "pri": "Tomažin",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Darko",
+      "pri": "Nikolovski",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Neža",
+      "pri": "Hlebanja",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Kušar",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Tatjana",
+      "pri": "Grbić Garvanović",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Borislav",
       "pri": "Žulj",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

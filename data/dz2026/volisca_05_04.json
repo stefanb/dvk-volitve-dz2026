@@ -11,7 +11,11 @@
       "rpeid": "013",
       "naz": "Avtohiša Kos, Ločiška c. 10, Polzela",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 792,
+        "gl": 204,
+        "prc": 0.2576
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "014",
       "naz": "DK Andraž, Andraž nad Polzelo 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 827,
+        "gl": 210,
+        "prc": 0.2539
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "019",
       "naz": "DK Vrbje, Vrbje 68",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 468,
+        "gl": 128,
+        "prc": 0.2735
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "001",
       "naz": "Dom KS Vinska Gora, Vinska Gora 31b",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1555,
+        "gl": 480,
+        "prc": 0.3087
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "009",
       "naz": "Dom Podeželskega društva Grče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 223,
+        "gl": 43,
+        "prc": 0.1928
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "018",
       "naz": "GD Ložnica, Ložnica pri Žalcu 24",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 437,
+        "gl": 109,
+        "prc": 0.2494
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "016",
       "naz": "Knjižnica Žalec - volišče I, Aškerčeva 9a, Žalec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 924,
+        "gl": 203,
+        "prc": 0.2197
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "017",
       "naz": "Knjižnica Žalec - volišče II, Aškerčeva 9a, Žalec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1354,
+        "gl": 311,
+        "prc": 0.2297
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "006",
       "naz": "OŠ Šempeter Volišče I, Šolska 2, Šempeter v S.d.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1006,
+        "gl": 234,
+        "prc": 0.2326
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "007",
       "naz": "OŠ Šempeter, Volišče II, Šolska 2, Šempeter v S.d",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1062,
+        "gl": 286,
+        "prc": 0.2693
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "003",
       "naz": "PGD Velika Pirešica, Pernovo 16",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 878,
+        "gl": 221,
+        "prc": 0.2517
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "004",
       "naz": "POŠ Ponikva, Ponikva pri Žalcu 17",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1054,
+        "gl": 246,
+        "prc": 0.2334
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "002",
       "naz": "POŠ Trje, Galicija 18e",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 798,
+        "gl": 156,
+        "prc": 0.1955
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "005",
       "naz": "Prostori KS Gotovlje, Gotovlje 40",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1162,
+        "gl": 350,
+        "prc": 0.3012
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "015",
       "naz": "Savinov salon Žalec, Šlandrov trg 25,  Žalec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1263,
+        "gl": 272,
+        "prc": 0.2154
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "010",
       "naz": "Šola Polzela, Volišče I, Šolska ul. 3, Polzela",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1234,
+        "gl": 337,
+        "prc": 0.2731
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "011",
       "naz": "Šola Polzela, Volišče II, Šolska ul. 3, Polzela",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1385,
+        "gl": 282,
+        "prc": 0.2036
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "012",
       "naz": "Šola Polzela, Volišče III, Šolska ul. 3, Polzela",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 869,
+        "gl": 187,
+        "prc": 0.2152
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "008",
       "naz": "Tavčar Alojz, Zg. Grušovlje 18",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 229,
+        "gl": 74,
+        "prc": 0.3231
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,112 +239,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Marta",
-      "pri": "Rojnik",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Tomaž",
-      "pri": "Krajnc",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Jasna",
-      "pri": "Rode Nikolčić",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Matjaž",
-      "pri": "Vodlan",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Anita",
-      "pri": "Alavuk",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Janko",
-      "pri": "Kos",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Maja",
-      "pri": "Šaver",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Vesna Snežna",
-      "pri": "Tripković Sancin",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Bernarda",
-      "pri": "Keblič",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Aleš",
-      "pri": "Rezar",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "ime": "Crni (Faruk)",
-      "pri": "Pijuković",
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Cvetka",
       "pri": "Golob",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Anita",
+      "pri": "Alavuk",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Evgen",
@@ -276,7 +270,93 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "020437"
+    },
+    {
+      "ime": "Andrejka",
+      "pri": "Tanaskovič",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Vesna Snežna",
+      "pri": "Tripković Sancin",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Matjaž",
+      "pri": "Vodlan",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Bernarda",
+      "pri": "Keblič",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Janko",
+      "pri": "Kos",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Maja",
+      "pri": "Šaver",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Marta",
+      "pri": "Rojnik",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Aleš",
+      "pri": "Rezar",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Jasna",
+      "pri": "Rode Nikolčić",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "ime": "Crni (Faruk)",
+      "pri": "Pijuković",
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
     },
     {
       "pfx": "mag.",
@@ -285,31 +365,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Andrejka",
-      "pri": "Tanaskovič",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Tomaž",
+      "pri": "Krajnc",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Damijan",
       "pri": "Ružič",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

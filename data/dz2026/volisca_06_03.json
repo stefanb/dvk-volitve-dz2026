@@ -11,7 +11,11 @@
       "rpeid": "019",
       "naz": "DC, Seidlova c. 28, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1158,
+        "gl": 300,
+        "prc": 0.2591
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "008",
       "naz": "DK KS Gotna vas, Jedinščica 58, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 878,
+        "gl": 210,
+        "prc": 0.2392
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "022",
       "naz": "DK KS Žabja vas, Šentjernejska c. 10, 8000 NM",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 688,
+        "gl": 196,
+        "prc": 0.2849
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "011",
       "naz": "DK Regrča vas, Regrča vas 101, 8000 Novo  mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 840,
+        "gl": 200,
+        "prc": 0.2381
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "013",
       "naz": "GD Dolenje Kamence,Dol. Kamence 3,8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1234,
+        "gl": 326,
+        "prc": 0.2642
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "010",
       "naz": "GD Križe, Križe 27, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 100,
+        "prc": 0.2625
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "027",
       "naz": "GD Otočec, Šentpeter 1, 8222 Otočec",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1515,
+        "gl": 400,
+        "prc": 0.2640
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "012",
       "naz": "GD Straža, Novomeška c. 1, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 612,
+        "gl": 132,
+        "prc": 0.2157
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "036",
       "naz": "GD Ždinja vas, Ždinja vas 14, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 331,
+        "gl": 68,
+        "prc": 0.2054
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "020",
       "naz": "Gimnazija Novo mesto,Seidlova c.9,8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 885,
+        "gl": 194,
+        "prc": 0.2192
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "034",
       "naz": "Inpro d.o.o. Novo mesto, Loke 4, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 42,
+        "prc": 0.2346
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "006",
       "naz": "Janez Miklič, Gorenje Kamence 9, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 253,
+        "gl": 82,
+        "prc": 0.3241
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "014",
       "naz": "KC J. Trdine, Novi trg 5, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 580,
+        "gl": 111,
+        "prc": 0.1914
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "029",
       "naz": "KD Straža, Pod Srobotnikom 4, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1070,
+        "gl": 218,
+        "prc": 0.2037
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "028",
       "naz": "Matjaževa domačija, Paha 3, 8222 Otočec ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 321,
+        "gl": 93,
+        "prc": 0.2897
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "026",
       "naz": "MD Drganja sela, Drganja sela 3, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 211,
+        "gl": 58,
+        "prc": 0.2749
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "031",
       "naz": "MD Prapreče, Prapreče 22, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 311,
+        "gl": 85,
+        "prc": 0.2733
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "033",
       "naz": "MD Rumanja vas, Rumanja vas bš, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 195,
+        "gl": 59,
+        "prc": 0.3026
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "017",
       "naz": "OŠ Bršljin I, Kočevarjeva ul. 40, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1033,
+        "gl": 238,
+        "prc": 0.2304
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "024",
       "naz": "OŠ Bršljin II, Kočevarjeva ul. 40,8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 511,
+        "gl": 114,
+        "prc": 0.2231
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "023",
       "naz": "OŠ Grm, Trdinova ul. 7, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1561,
+        "gl": 341,
+        "prc": 0.2184
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "009",
       "naz": "OŠ Mali Slatnik, Mali Slatnik 7, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1169,
+        "gl": 32,
+        "prc": 0.0274
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "035",
       "naz": "OŠ Šmihel, Šmihel 2, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1238,
+        "gl": 260,
+        "prc": 0.2100
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "032",
       "naz": "OŠ Vavta vas, Vavta vas 1, 8351 Straža",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 443,
+        "gl": 129,
+        "prc": 0.2912
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "005",
       "naz": "Prostori KS, Ul. Slavka Gruma 9, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1268,
+        "gl": 291,
+        "prc": 0.2295
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "001",
       "naz": "RIC, Topliška c. 2, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 967,
+        "gl": 259,
+        "prc": 0.2678
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "002",
       "naz": "Stara OŠ, Dolenje Karteljevo 29, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 232,
+        "gl": 80,
+        "prc": 0.3448
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "030",
       "naz": "Stara OŠ, Prečna  8, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 983,
+        "gl": 252,
+        "prc": 0.2564
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "015",
       "naz": "Vrtec Ciciban I, Ragovska ul. 18, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 965,
+        "gl": 231,
+        "prc": 0.2394
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "018",
       "naz": "Vrtec Ciciban II, Ragovska ul. 18,8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 836,
+        "gl": 207,
+        "prc": 0.2476
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "004",
       "naz": "Vrtec Pedenjped, Šegova ul. 22, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1119,
+        "gl": 298,
+        "prc": 0.2663
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "025",
       "naz": "Vrtec Žabjak, Brezje 8, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 336,
+        "gl": 6,
+        "prc": 0.0179
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,111 +395,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 971,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Marko",
-      "pri": "Dvornik",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Boštjan",
-      "pri": "Kovačič",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Bojan",
-      "pri": "Mikec",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Robert",
-      "pri": "Latin",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Predrag",
-      "pri": "Matković",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "pfx": "mag.",
-      "ime": "Tanja",
-      "pri": "Strniša",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Jože",
-      "pri": "Pirh",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Irena",
-      "pri": "Hren",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Dušan",
-      "pri": "Kaplan",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Klemen",
-      "pri": "Boštjančič",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Sabina",
       "pri": "Senčar",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Predrag",
+      "pri": "Matković",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Bojan",
@@ -379,15 +426,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "ime": "Senko",
-      "pri": "Pličanič",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "pfx": "mag.",
@@ -396,23 +435,119 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Irena",
+      "pri": "Hren",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Robert",
+      "pri": "Latin",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Kaplan",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Tanja",
+      "pri": "Strniša",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Jože",
+      "pri": "Pirh",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Marko",
+      "pri": "Dvornik",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Klemen",
+      "pri": "Boštjančič",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Bojan",
+      "pri": "Mikec",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Senko",
+      "pri": "Pličanič",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Boštjan",
+      "pri": "Kovačič",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Rok",
       "pri": "Stepišnik",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

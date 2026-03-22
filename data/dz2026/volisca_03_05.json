@@ -11,7 +11,11 @@
       "rpeid": "008",
       "naz": "Biotehnični izobraž. center, C. v Mestni log 47",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1068,
+        "gl": 255,
+        "prc": 0.2388
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "003",
       "naz": "Dijaški dom Vič, Gerbičeva ul. 53, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 482,
+        "gl": 113,
+        "prc": 0.2344
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "001",
       "naz": "DSO, Enota Kolezija, Kopališka ul. 10, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 806,
+        "gl": 190,
+        "prc": 0.2357
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "007",
       "naz": "Gasilski dom Lj.-Trnovo, C. v Mestni log 31",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 813,
+        "gl": 195,
+        "prc": 0.2399
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "009",
       "naz": "JP VOKA SNAGA d.o.o., C. dveh cesarjev 111",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 678,
+        "gl": 103,
+        "prc": 0.1519
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "002",
       "naz": "OŠ Kolezija, C. v Mestni log 46, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 871,
+        "gl": 218,
+        "prc": 0.2503
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "006",
       "naz": "OŠ Kolezija, Splitska ul. 13, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 355,
+        "gl": 95,
+        "prc": 0.2676
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "012",
       "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 941,
+        "gl": 241,
+        "prc": 0.2561
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "013",
       "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 901,
+        "gl": 173,
+        "prc": 0.1920
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "014",
       "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 907,
+        "gl": 194,
+        "prc": 0.2139
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "015",
       "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 954,
+        "gl": 210,
+        "prc": 0.2201
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "018",
       "naz": "OŠ Vič, Abramova ul. 26, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 770,
+        "gl": 130,
+        "prc": 0.1688
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "004",
       "naz": "OŠ Vič, Tržaška c. 74, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 847,
+        "gl": 171,
+        "prc": 0.2019
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "005",
       "naz": "OŠ Vič, Tržaška c. 74, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 986,
+        "gl": 230,
+        "prc": 0.2333
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "016",
       "naz": "OŠ Vrhovci, C. na Bokalce 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 900,
+        "gl": 202,
+        "prc": 0.2244
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "017",
       "naz": "OŠ Vrhovci, C. na Bokalce 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 745,
+        "gl": 174,
+        "prc": 0.2336
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "019",
       "naz": "OŠ Vrhovci, C. na Bokalce 1, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 775,
+        "gl": 186,
+        "prc": 0.24
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "010",
       "naz": "Prostori MOL, Tbilisijska ul. 22a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 895,
+        "gl": 193,
+        "prc": 0.2156
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "011",
       "naz": "Prostori MOL, Tbilisijska ul. 22a, Ljubljana",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 749,
+        "gl": 172,
+        "prc": 0.2296
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,110 +239,30 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Uroš",
-      "pri": "Korošec",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Matjaž",
-      "pri": "Sepin",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Jaka",
-      "pri": "Vadnjal",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Danilo",
-      "pri": "Šarić",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Klemen",
-      "pri": "Pregl",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Mojca",
-      "pri": "Šetinc Pašek",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Urška",
-      "pri": "Orehek",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Petra",
-      "pri": "Blajhribar Kubo",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Petra",
-      "pri": "Mrhar Slak",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Tamara",
-      "pri": "Vonta",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Alenka",
       "pri": "Viceljo",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Klemen",
+      "pri": "Pregl",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Tanja Anastasia",
@@ -274,16 +270,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "pfx": "mag.",
-      "ime": "Alenka",
-      "pri": "Megušar",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "pfx": "dr.",
@@ -292,23 +279,119 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Petra",
+      "pri": "Blajhribar Kubo",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Danilo",
+      "pri": "Šarić",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Petra",
+      "pri": "Mrhar Slak",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Mojca",
+      "pri": "Šetinc Pašek",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Urška",
+      "pri": "Orehek",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Uroš",
+      "pri": "Korošec",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Tamara",
+      "pri": "Vonta",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Jaka",
+      "pri": "Vadnjal",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "pfx": "mag.",
+      "ime": "Alenka",
+      "pri": "Megušar",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Matjaž",
+      "pri": "Sepin",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Biserka",
       "pri": "Javoršek",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

@@ -11,7 +11,11 @@
       "rpeid": "029",
       "naz": " ZDD Uršna sela, Vaška c. 4 , 8323  Uršna sela",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 597,
+        "gl": 114,
+        "prc": 0.1910
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "045",
       "naz": "A. Turk - Roje, Roje 12, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 275,
+        "gl": 60,
+        "prc": 0.2182
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "052",
       "naz": "DK Veliko Lipje, Veliko Lipje 3, 8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 120,
+        "gl": 31,
+        "prc": 0.2583
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "057",
       "naz": "E.Škufca-Sela pri Hinjah,S.pri Hinjah11,8362Hinje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 149,
+        "gl": 35,
+        "prc": 0.2349
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "034",
       "naz": "GD Cerov Log, Cerov Log 1, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 188,
+        "gl": 79,
+        "prc": 0.4202
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "039",
       "naz": "GD Dol. Maharovec, D.Maharovec 19,8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 358,
+        "gl": 91,
+        "prc": 0.2542
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "038",
       "naz": "GD Dol. Mokro Polje, D.M.Polje 4, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 293,
+        "gl": 93,
+        "prc": 0.3174
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "037",
       "naz": "GD Dolenja Stara vas, Dolenja Stara vas 43",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 339,
+        "gl": 82,
+        "prc": 0.2419
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "054",
       "naz": "GD Dolnji Ajdovec, Dolnji Ajdovec 21, 8361 Dvor",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 457,
+        "gl": 134,
+        "prc": 0.2932
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "003",
       "naz": "GD Dolž, Lipnica 5, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 487,
+        "gl": 122,
+        "prc": 0.2505
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "041",
       "naz": "GD Gorenja Stara vas,G.St. vas 21,8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 146,
+        "gl": 32,
+        "prc": 0.2192
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "042",
       "naz": "GD Gorenje Vrhpolje,G.Vrhpolje 86,8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 510,
+        "gl": 123,
+        "prc": 0.2412
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "016",
       "naz": "GD Gorenji Globodol,G. Globodol 38,8216 Mirna Peč",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 171,
+        "gl": 38,
+        "prc": 0.2222
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "043",
       "naz": "GD Groblje pri Prekopi, Groblje pri Prekopi 36",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 449,
+        "gl": 95,
+        "prc": 0.2116
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "055",
       "naz": "GD Hinje, Hinje 38, 8362 Hinje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 157,
+        "gl": 29,
+        "prc": 0.1847
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "015",
       "naz": "GD Jablan, Jablan 20, 8216 Mirna Peč",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 400,
+        "gl": 135,
+        "prc": 0.3375
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "009",
       "naz": "GD Mali Podljuben,M. Podljuben 20,8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 47,
+        "prc": 0.2901
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "044",
       "naz": "GD Orehovica, Orehovica 57, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 484,
+        "gl": 125,
+        "prc": 0.2583
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "010",
       "naz": "GD Orešje, Orešje 17, 8220 Šmarješke Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 219,
+        "gl": 55,
+        "prc": 0.2511
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "018",
       "naz": "GD Podgrad, Podgrad 38, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 744,
+        "gl": 160,
+        "prc": 0.2151
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "020",
       "naz": "GD Podturn pri D.Toplicah,Podt. pri D.Toplicah 12",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 501,
+        "gl": 128,
+        "prc": 0.2555
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "022",
       "naz": "GD Ratež, Ratež 47, 8321 Brusnice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 422,
+        "gl": 111,
+        "prc": 0.2630
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "050",
       "naz": "GD Reber, Reber 16, 8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 127,
+        "gl": 44,
+        "prc": 0.3465
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "053",
       "naz": "GD Šmihel pri Žužemberku, Šm. pri  Žužemberku 38",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 381,
+        "gl": 77,
+        "prc": 0.2021
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "024",
       "naz": "GD Soteska, Soteska 38,8351 Straža pri Novem mest",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 208,
+        "gl": 58,
+        "prc": 0.2788
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "025",
       "naz": "GD Stopiče, Stopiče 3, 8322 Stopiče",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1340,
+        "gl": 341,
+        "prc": 0.2545
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "026",
       "naz": "GD Stranska vas, Stranska vas 70, 8000 Novo mesto",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 539,
+        "gl": 146,
+        "prc": 0.2709
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "051",
       "naz": "GD Vrh pri Križu, Vrh pri Križu 17,8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 113,
+        "gl": 43,
+        "prc": 0.3805
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "012",
       "naz": "GD Zbure, Zbure 29a, 8220 Šmarješke Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 282,
+        "gl": 81,
+        "prc": 0.2872
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "058",
       "naz": "GD Žvirče, Žvirče bš, 8362 Hinje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 102,
+        "gl": 26,
+        "prc": 0.2549
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,7 +371,11 @@
       "rpeid": "006",
       "naz": "Gostišče Kolesar,Dolenje Sušice 22,8350 D. Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 430,
+        "gl": 85,
+        "prc": 0.1977
+      },
       "prestetih_glasov": null
     },
     {
@@ -259,7 +383,11 @@
       "rpeid": "004",
       "naz": "Hiša žive dediščine - dvorana, Bela Cerkev 6",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 773,
+        "gl": 177,
+        "prc": 0.2290
+      },
       "prestetih_glasov": null
     },
     {
@@ -267,7 +395,11 @@
       "rpeid": "035",
       "naz": "Karlovček d.o.o.,Vrh pri Šentj. 5,8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 489,
+        "gl": 119,
+        "prc": 0.2434
+      },
       "prestetih_glasov": null
     },
     {
@@ -275,7 +407,11 @@
       "rpeid": "033",
       "naz": "Kartuzija Pleterje, Drča 1, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 219,
+        "gl": 61,
+        "prc": 0.2785
+      },
       "prestetih_glasov": null
     },
     {
@@ -283,7 +419,11 @@
       "rpeid": "002",
       "naz": "KC Dol.Toplice, Sokolski trg 4, 8350 Dol. Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1109,
+        "gl": 273,
+        "prc": 0.2462
+      },
       "prestetih_glasov": null
     },
     {
@@ -291,7 +431,11 @@
       "rpeid": "049",
       "naz": "KC P. Trubarja Šentjernej, Trubarjeva c. 13",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 634,
+        "gl": 113,
+        "prc": 0.1782
+      },
       "prestetih_glasov": null
     },
     {
@@ -299,7 +443,11 @@
       "rpeid": "005",
       "naz": "KD Gomile, Gomile 10, 8321 Brusnice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 555,
+        "gl": 141,
+        "prc": 0.2541
+      },
       "prestetih_glasov": null
     },
     {
@@ -307,7 +455,11 @@
       "rpeid": "008",
       "naz": "KD Šmarjeta-dvorana,Šmarjeta 66, 8220 Šm. Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1483,
+        "gl": 349,
+        "prc": 0.2353
+      },
       "prestetih_glasov": null
     },
     {
@@ -315,7 +467,11 @@
       "rpeid": "007",
       "naz": "KS kletni prostori - Hrušica, Hrušica bš",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 201,
+        "gl": 43,
+        "prc": 0.2139
+      },
       "prestetih_glasov": null
     },
     {
@@ -323,7 +479,11 @@
       "rpeid": "040",
       "naz": "M. Tajčman-Gorenja Gomila, Gorenja Gomila 5",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 190,
+        "gl": 49,
+        "prc": 0.2579
+      },
       "prestetih_glasov": null
     },
     {
@@ -331,7 +491,11 @@
       "rpeid": "046",
       "naz": "Mizarstvo Cvelbar, Mršeča vas 1, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 177,
+        "gl": 44,
+        "prc": 0.2486
+      },
       "prestetih_glasov": null
     },
     {
@@ -339,7 +503,11 @@
       "rpeid": "013",
       "naz": "Občina Mirna Peč, Trg 8, 8216 Mirna Peč",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 981,
+        "gl": 216,
+        "prc": 0.2202
+      },
       "prestetih_glasov": null
     },
     {
@@ -347,7 +515,11 @@
       "rpeid": "031",
       "naz": "OŠ Brusnice, Velike Brusnice 101, 8321 Brusnice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 693,
+        "gl": 182,
+        "prc": 0.2626
+      },
       "prestetih_glasov": null
     },
     {
@@ -355,7 +527,11 @@
       "rpeid": "056",
       "naz": "OŠ Prevole, Prevole 32, 8362 Hinje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 99,
+        "gl": 26,
+        "prc": 0.2626
+      },
       "prestetih_glasov": null
     },
     {
@@ -363,7 +539,11 @@
       "rpeid": "048",
       "naz": "OŠ Šentjernej, Prvomajska c. 9, 8310 Šentjernej",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 636,
+        "gl": 193,
+        "prc": 0.3035
+      },
       "prestetih_glasov": null
     },
     {
@@ -371,7 +551,11 @@
       "rpeid": "001",
       "naz": "OŠ Šmihel, Podr. šola Birčna vas, Birčna vas 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 402,
+        "gl": 106,
+        "prc": 0.2637
+      },
       "prestetih_glasov": null
     },
     {
@@ -379,7 +563,11 @@
       "rpeid": "014",
       "naz": "OŠ T. Pavčka, Postaja 1, 8216 Mirna Peč",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 919,
+        "gl": 262,
+        "prc": 0.2851
+      },
       "prestetih_glasov": null
     },
     {
@@ -387,7 +575,11 @@
       "rpeid": "032",
       "naz": "OŠ Žužemberk, Baragova c. 1, 8360 Žužemberk",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1013,
+        "gl": 223,
+        "prc": 0.2201
+      },
       "prestetih_glasov": null
     },
     {
@@ -395,7 +587,11 @@
       "rpeid": "059",
       "naz": "OŠ Žužemberk, Podr. šola Dvor, 23d, 8361 Dvor",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 1058,
+        "gl": 318,
+        "prc": 0.3006
+      },
       "prestetih_glasov": null
     },
     {
@@ -403,7 +599,11 @@
       "rpeid": "019",
       "naz": "Prosvetni dom Podhosta,Podhosta bš,8350 D.Toplice",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 600,
+        "gl": 164,
+        "prc": 0.2733
+      },
       "prestetih_glasov": null
     },
     {
@@ -411,7 +611,11 @@
       "rpeid": "036",
       "naz": "T. Pirnar - Dolenja Brezovica, Dolenja Brezovica 1",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 335,
+        "gl": 81,
+        "prc": 0.2418
+      },
       "prestetih_glasov": null
     },
     {
@@ -419,35 +623,54 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
     {
-      "pfx": "dr.",
-      "ime": "Vida",
-      "pri": "Čadonič Špelič",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
+      "ime": "Jurij",
+      "pri": "Čeferin",
+      "st": 107752,
+      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+      "knaz": "RESNI.CA",
+      "hcol": "7e5096"
     },
     {
-      "ime": "Saša",
-      "pri": "Otoničar Gorenc",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
+      "ime": "Aljaž",
+      "pri": "Jordan",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
-      "ime": "Andrej",
-      "pri": "Kastelic",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
+      "ime": "Eva Vilma",
+      "pri": "Ravnič",
+      "st": 107750,
+      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+      "knaz": "GLAS UPOKOJENCEV",
+      "hcol": "020437"
+    },
+    {
+      "ime": "Anja",
+      "pri": "Bah Žibert",
+      "st": 107757,
+      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+      "knaz": "SDS",
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Gregor",
+      "pri": "Lorber",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
     },
     {
       "ime": "Ivan",
@@ -455,21 +678,15 @@
       "st": 107799,
       "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
       "knaz": "ZAUPANJE",
-      "hcol": null
+      "hcol": "89aedb"
     },
     {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Aljaž",
-      "pri": "Jordan",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
+      "ime": "Rok",
+      "pri": "Mežnar",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
     },
     {
       "pfx": "mag.",
@@ -478,7 +695,7 @@
       "st": 107753,
       "naz": "SOCIALNI DEMOKRATI",
       "knaz": "SD",
-      "hcol": null
+      "hcol": "cb000d"
     },
     {
       "ime": "Vid",
@@ -486,23 +703,16 @@
       "st": 107756,
       "naz": "PIRATSKA STRANKA SLOVENIJE",
       "knaz": "PIRATI",
-      "hcol": null
+      "hcol": "000000"
     },
     {
-      "ime": "Gregor",
-      "pri": "Lorber",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Rok",
-      "pri": "Mežnar",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
+      "pfx": "dr.",
+      "ime": "Vida",
+      "pri": "Čadonič Špelič",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
     },
     {
       "ime": "Jožefa",
@@ -510,29 +720,27 @@
       "st": 107754,
       "naz": "GIBANJE SVOBODA",
       "knaz": "SVOBODA",
-      "hcol": null
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Andrej",
+      "pri": "Kastelic",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
     },
     {
       "st": 107801,
       "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
       "knaz": "REŠITEV",
-      "hcol": null
-    },
-    {
-      "ime": "Jurij",
-      "pri": "Čeferin",
-      "st": 107752,
-      "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
-      "knaz": "RESNI.CA",
-      "hcol": null
-    },
-    {
-      "ime": "Eva Vilma",
-      "pri": "Ravnič",
-      "st": 107750,
-      "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
-      "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
+      "hcol": "ADA702"
     },
     {
       "ime": "Silvo",
@@ -540,31 +748,34 @@
       "st": 107755,
       "naz": "DEMOKRATI. ANŽETA LOGARJA",
       "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "01beac"
     },
     {
-      "ime": "Anja",
-      "pri": "Bah Žibert",
-      "st": 107757,
-      "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
-      "knaz": "SDS",
-      "hcol": null
+      "ime": "Saša",
+      "pri": "Otoničar Gorenc",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Rok",
       "pri": "Stepišnik",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }

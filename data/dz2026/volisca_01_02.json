@@ -11,7 +11,11 @@
       "rpeid": "024",
       "naz": "Avla podružnične šole, Srednja vas 69,Sr.vas v B. ",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 376,
+        "gl": 93,
+        "prc": 0.2473
+      },
       "prestetih_glasov": null
     },
     {
@@ -19,7 +23,11 @@
       "rpeid": "015",
       "naz": "Bohinjska hiša, Mencingerjeva ulica 4, Boh.Bistr.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 492,
+        "gl": 99,
+        "prc": 0.2012
+      },
       "prestetih_glasov": null
     },
     {
@@ -27,7 +35,11 @@
       "rpeid": "027",
       "naz": "Center TNP Bohinj, Stara Fužina 37, B.jez.",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 536,
+        "gl": 121,
+        "prc": 0.2257
+      },
       "prestetih_glasov": null
     },
     {
@@ -35,7 +47,11 @@
       "rpeid": "016",
       "naz": "Dom Joža Ažmana, Triglavska c. 16, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 896,
+        "gl": 164,
+        "prc": 0.1830
+      },
       "prestetih_glasov": null
     },
     {
@@ -43,7 +59,11 @@
       "rpeid": "010",
       "naz": "Dom upokojencev Spodnje Gorje, Sp. Gorje 208",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 765,
+        "gl": 185,
+        "prc": 0.2418
+      },
       "prestetih_glasov": null
     },
     {
@@ -51,7 +71,11 @@
       "rpeid": "017",
       "naz": "Gasilski dom Bitnje, Bitnje 13, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 86,
+        "gl": 22,
+        "prc": 0.2558
+      },
       "prestetih_glasov": null
     },
     {
@@ -59,7 +83,11 @@
       "rpeid": "025",
       "naz": "Gasilski dom Bohinj. Češnjica, Bohin. Češnjica 79",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 450,
+        "gl": 107,
+        "prc": 0.2378
+      },
       "prestetih_glasov": null
     },
     {
@@ -67,7 +95,11 @@
       "rpeid": "023",
       "naz": "Gasilski dom Gorjuše, Gorjuše 36 a, Boh.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 131,
+        "gl": 37,
+        "prc": 0.2824
+      },
       "prestetih_glasov": null
     },
     {
@@ -75,7 +107,11 @@
       "rpeid": "020",
       "naz": "Gasilski dom Kamnje, Kamnje 26 a, Boh.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 495,
+        "gl": 117,
+        "prc": 0.2364
+      },
       "prestetih_glasov": null
     },
     {
@@ -83,7 +119,11 @@
       "rpeid": "001",
       "naz": "Gasilski dom Mlino, Mlinska cesta 26, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 279,
+        "gl": 78,
+        "prc": 0.2796
+      },
       "prestetih_glasov": null
     },
     {
@@ -91,7 +131,11 @@
       "rpeid": "021",
       "naz": "Gasilski dom Nemški rovt,Nemški rovt18,B.Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 95,
+        "gl": 29,
+        "prc": 0.3053
+      },
       "prestetih_glasov": null
     },
     {
@@ -99,7 +143,11 @@
       "rpeid": "018",
       "naz": "Gasilski dom Nomenj, Nomenj 23, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 138,
+        "gl": 34,
+        "prc": 0.2464
+      },
       "prestetih_glasov": null
     },
     {
@@ -107,7 +155,11 @@
       "rpeid": "011",
       "naz": "Gasilski dom Podhom, Podhom 15, Zgornje Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 253,
+        "gl": 64,
+        "prc": 0.2530
+      },
       "prestetih_glasov": null
     },
     {
@@ -115,7 +167,11 @@
       "rpeid": "002",
       "naz": "Gasilski dom Rečica, Rečiška cesta 4, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 708,
+        "gl": 145,
+        "prc": 0.2048
+      },
       "prestetih_glasov": null
     },
     {
@@ -123,7 +179,11 @@
       "rpeid": "005",
       "naz": "INFOCENTER TRIGLAVSKA ROŽA BLED, Ljubljanska c.27",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 664,
+        "gl": 163,
+        "prc": 0.2455
+      },
       "prestetih_glasov": null
     },
     {
@@ -131,7 +191,11 @@
       "rpeid": "006",
       "naz": "Kulturni dom Bohinjska Bela, Bohinjska Bela  37",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 524,
+        "gl": 124,
+        "prc": 0.2366
+      },
       "prestetih_glasov": null
     },
     {
@@ -139,7 +203,11 @@
       "rpeid": "014",
       "naz": "Kulturni dom Zasip, Sebenje 6, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 835,
+        "gl": 232,
+        "prc": 0.2778
+      },
       "prestetih_glasov": null
     },
     {
@@ -147,7 +215,11 @@
       "rpeid": "033",
       "naz": "MGC Vezenine Bled, Ulica Jule Vovk Molnar 2, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 784,
+        "gl": 180,
+        "prc": 0.2296
+      },
       "prestetih_glasov": null
     },
     {
@@ -155,7 +227,11 @@
       "rpeid": "013",
       "naz": "Natura hotel LUKANC, Selo pri Bledu 8, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 170,
+        "gl": 58,
+        "prc": 0.3412
+      },
       "prestetih_glasov": null
     },
     {
@@ -163,7 +239,11 @@
       "rpeid": "003",
       "naz": "Občina Bled, Cesta svobode 13, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 762,
+        "gl": 129,
+        "prc": 0.1693
+      },
       "prestetih_glasov": null
     },
     {
@@ -171,7 +251,11 @@
       "rpeid": "004",
       "naz": "Osnovna šola Bled, Seliška cesta 3, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 715,
+        "gl": 150,
+        "prc": 0.2098
+      },
       "prestetih_glasov": null
     },
     {
@@ -179,7 +263,11 @@
       "rpeid": "008",
       "naz": "Osnovna šola Gorje, Zg. Gorje 44 a, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 386,
+        "gl": 87,
+        "prc": 0.2254
+      },
       "prestetih_glasov": null
     },
     {
@@ -187,7 +275,11 @@
       "rpeid": "009",
       "naz": "Osnovna šola Gorje, Zg. Gorje 44a, Zg. Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 380,
+        "gl": 76,
+        "prc": 0.2
+      },
       "prestetih_glasov": null
     },
     {
@@ -195,7 +287,11 @@
       "rpeid": "007",
       "naz": "Pri Kunavc, Krnica 21, Zgornje Gorje",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 415,
+        "gl": 97,
+        "prc": 0.2337
+      },
       "prestetih_glasov": null
     },
     {
@@ -203,7 +299,11 @@
       "rpeid": "028",
       "naz": "Pri Milanu Talerju,Studor v Bohinju 5a,Sr.vas v B",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 100,
+        "gl": 17,
+        "prc": 0.17
+      },
       "prestetih_glasov": null
     },
     {
@@ -211,7 +311,11 @@
       "rpeid": "026",
       "naz": "Pri Zdenki Platiša,Podjelje 15 a,Sr.vas v Bohinju",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 63,
+        "gl": 16,
+        "prc": 0.2540
+      },
       "prestetih_glasov": null
     },
     {
@@ -219,7 +323,11 @@
       "rpeid": "022",
       "naz": "Šola na Koprivniku, Koprivnik 4, Boh. Bistrica",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 179,
+        "gl": 20,
+        "prc": 0.1117
+      },
       "prestetih_glasov": null
     },
     {
@@ -227,7 +335,11 @@
       "rpeid": "019",
       "naz": "Turistično društvo Bohinj,Ribčev Laz 48, B.jezero",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 162,
+        "gl": 39,
+        "prc": 0.2407
+      },
       "prestetih_glasov": null
     },
     {
@@ -235,7 +347,11 @@
       "rpeid": "012",
       "naz": "Zadružni dom Ribno, Izletniška ulica 11, Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 817,
+        "gl": 245,
+        "prc": 0.2999
+      },
       "prestetih_glasov": null
     },
     {
@@ -243,7 +359,11 @@
       "rpeid": "901",
       "naz": "Predčasno glasovanje - Bled",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     },
     {
@@ -251,110 +371,30 @@
       "rpeid": "902",
       "naz": "Predčasno glasovanje - Bohinj",
       "rez": null,
-      "udel": null,
+      "udel": {
+        "upr": 0,
+        "gl": 0,
+        "prc": 0.0
+      },
       "prestetih_glasov": null
     }
   ],
   "liste": [
-    {
-      "ime": "Maja",
-      "pri": "Fajdiga Komar",
-      "st": 107749,
-      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "knaz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
-      "hcol": null
-    },
-    {
-      "ime": "Katja",
-      "pri": "Čelec",
-      "st": 107751,
-      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
-      "knaz": "SNS",
-      "hcol": null
-    },
-    {
-      "ime": "Gorazd",
-      "pri": "Pretnar",
-      "st": 107758,
-      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "knaz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
-      "hcol": null
-    },
-    {
-      "ime": "Petra",
-      "pri": "Klavčič",
-      "st": 107799,
-      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
-      "knaz": "ZAUPANJE",
-      "hcol": null
-    },
-    {
-      "st": 107803,
-      "naz": "SLOGA",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Emil",
-      "pri": "Brence",
-      "st": 107759,
-      "naz": "MI, SOCIALISTI!",
-      "knaz": "/",
-      "hcol": null
-    },
-    {
-      "ime": "Ljuba",
-      "pri": "Tavčar",
-      "st": 107753,
-      "naz": "SOCIALNI DEMOKRATI",
-      "knaz": "SD",
-      "hcol": null
-    },
-    {
-      "ime": "Matej",
-      "pri": "Ahačič",
-      "st": 107756,
-      "naz": "PIRATSKA STRANKA SLOVENIJE",
-      "knaz": "PIRATI",
-      "hcol": null
-    },
-    {
-      "ime": "Milan",
-      "pri": "Rejc",
-      "st": 107760,
-      "naz": "LEVICA IN VESNA",
-      "knaz": "LEVICA IN VESNA",
-      "hcol": null
-    },
-    {
-      "ime": "Dušan",
-      "pri": "Vučko",
-      "st": 107761,
-      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
-      "knaz": "PREROD",
-      "hcol": null
-    },
-    {
-      "ime": "Katarina",
-      "pri": "Štravs",
-      "st": 107754,
-      "naz": "GIBANJE SVOBODA",
-      "knaz": "SVOBODA",
-      "hcol": null
-    },
-    {
-      "st": 107801,
-      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
-      "knaz": "REŠITEV",
-      "hcol": null
-    },
     {
       "ime": "Peter",
       "pri": "Podlesnik",
       "st": 107752,
       "naz": "DRŽAVLJANSKO GIBANJE RESNI.CA",
       "knaz": "RESNI.CA",
-      "hcol": null
+      "hcol": "7e5096"
+    },
+    {
+      "ime": "Emil",
+      "pri": "Brence",
+      "st": 107759,
+      "naz": "MI, SOCIALISTI!",
+      "knaz": "MI, SOCIALISTI!",
+      "hcol": "fb4c48"
     },
     {
       "ime": "Franci",
@@ -362,15 +402,7 @@
       "st": 107750,
       "naz": "GLAS UPOKOJENCEV PAVLA RUPARJA",
       "knaz": "GLAS UPOKOJENCEV",
-      "hcol": null
-    },
-    {
-      "ime": "Zmago",
-      "pri": "Skobir",
-      "st": 107755,
-      "naz": "DEMOKRATI. ANŽETA LOGARJA",
-      "knaz": "DEMOKRATI.",
-      "hcol": null
+      "hcol": "020437"
     },
     {
       "ime": "Blaž",
@@ -378,23 +410,118 @@
       "st": 107757,
       "naz": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
       "knaz": "SDS",
-      "hcol": null
+      "hcol": "FFE53F"
+    },
+    {
+      "ime": "Milan",
+      "pri": "Rejc",
+      "st": 107760,
+      "naz": "LEVICA IN VESNA",
+      "knaz": "LEVICA IN VESNA",
+      "hcol": "b30020"
+    },
+    {
+      "ime": "Petra",
+      "pri": "Klavčič",
+      "st": 107799,
+      "naz": "KARL ERJAVEC STRANKA ZAUPANJE",
+      "knaz": "ZAUPANJE",
+      "hcol": "89aedb"
+    },
+    {
+      "ime": "Dušan",
+      "pri": "Vučko",
+      "st": 107761,
+      "naz": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+      "knaz": "PREROD",
+      "hcol": "ed0990"
+    },
+    {
+      "ime": "Ljuba",
+      "pri": "Tavčar",
+      "st": 107753,
+      "naz": "SOCIALNI DEMOKRATI",
+      "knaz": "SD",
+      "hcol": "cb000d"
+    },
+    {
+      "ime": "Matej",
+      "pri": "Ahačič",
+      "st": 107756,
+      "naz": "PIRATSKA STRANKA SLOVENIJE",
+      "knaz": "PIRATI",
+      "hcol": "000000"
+    },
+    {
+      "ime": "Maja",
+      "pri": "Fajdiga Komar",
+      "st": 107749,
+      "naz": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+      "knaz": "NSi, SLS, FOKUS",
+      "hcol": "009ac7"
+    },
+    {
+      "ime": "Katarina",
+      "pri": "Štravs",
+      "st": 107754,
+      "naz": "GIBANJE SVOBODA",
+      "knaz": "SVOBODA",
+      "hcol": "0063a6"
+    },
+    {
+      "ime": "Gorazd",
+      "pri": "Pretnar",
+      "st": 107758,
+      "naz": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+      "knaz": "ZELENI+SG",
+      "hcol": "75a948"
+    },
+    {
+      "st": 107803,
+      "naz": "SLOGA",
+      "knaz": "SLOGA",
+      "hcol": "023463"
+    },
+    {
+      "st": 107801,
+      "naz": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+      "knaz": "REŠITEV",
+      "hcol": "ADA702"
+    },
+    {
+      "ime": "Zmago",
+      "pri": "Skobir",
+      "st": 107755,
+      "naz": "DEMOKRATI. ANŽETA LOGARJA",
+      "knaz": "DEMOKRATI.",
+      "hcol": "01beac"
+    },
+    {
+      "ime": "Katja",
+      "pri": "Čelec",
+      "st": 107751,
+      "naz": "SLOVENSKA NACIONALNA STRANKA - SNS",
+      "knaz": "SNS",
+      "hcol": "4d4d4d"
     },
     {
       "ime": "Darja",
       "pri": "Teran",
       "st": 107800,
       "naz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "knaz": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
-      "hcol": null
+      "knaz": "ALTERNATIVA",
+      "hcol": "F3808A"
     }
   ],
   "nastavitve": {
-    "timestamp": "0001-01-01T00:00:00Z",
-    "datum": null,
-    "cas_udelezba": null,
-    "has_udelezba": false,
+    "timestamp": "2026-03-22T12:02:42.306Z",
+    "datum": "2026-03-22T12:30:00Z",
+    "cas_udelezba": "11:00",
+    "has_udelezba": true,
     "has_rezultat": false,
+    "is_final": false,
+    "has_rezultat_kandidati": false,
+    "has_kandidati_mandati": false,
     "has_kandidati_removed": false
   }
 }
